@@ -1,0 +1,1897 @@
+{
+  "database": [
+    {
+      "header": {
+        "hymnName": "O for a thousand tongues to sing",
+        "id": "hymn_ndm_en_ZW_13"
+      },
+      "attributes": {
+        "hymnNumber": 13,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_13"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": false
+      },
+      "captions": {
+        "meter": "8.6.8.6",
+        "key": "Doh is A",
+        "tonicSolfa": "{|s, :d :m |s :- :f |m :f :r |d :- ||}"
+      },
+      "content": {
+        "stanzas": [
+          "O for a thousand tongues to sing\nmy great Redeemer's praise,\nthe glories of my God and King,\nthe triumphs of his grace!\n\n",
+          "My gracious Master and my God,\nassist me to proclaim,\nto spread thro' all the earth abroad\nthe honors of your name.\n\n",
+          "Jesus! the name that charms our fears,\nthat bids our sorrows cease,\n'tis music in the sinner's ears,\n'tis life and health and peace.\n\n",
+          "He breaks the power of cancelled sin,\nhe sets the prisoner free;\nhis blood can make the foulest clean;\nhis blood availed for me.\n\n",
+          "To God all glory, praise, and love\nbe now and ever given\nby saints below and saints above,\nthe Church in earth and heaven.\n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "My Jesus, I love thee, I know thou art mine;",
+        "id": "hymn_ndm_en_ZW_147"
+      },
+      "attributes": {
+        "hymnNumber": 147,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_147"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": false
+      },
+      "captions": {
+        "meter": "Rusina Mwero....",
+        "key": "Doh is A flat",
+        "tonicSolfa": "{ :s, |d :- |d :m|s, :- |s, :l|s, f, |m, ; f, |s, :- |-: }",
+        "subtitle": "My Jesus, I love Thee"
+      },
+      "content": {
+        "stanzas": [
+          "My Jesus, I love thee, I know thou art mine;\nfor thee all the follies of sin I resign;\nmy gracious Redeemer, my Savior art thou;\nif ever I loved thee, my Jesus, 'tis now.\n\n",
+          "I love thee because thou hast first loved me\nand purchased my pardon on Calvary's tree;\nI love thee for wearing the thorns on thy brow;\nif ever I loved thee, my Jesus, 'tis now.\n\n",
+          "I'll love thee in life, I will love thee in death,\nand praise thee as long as thou lendest me breath,\nand say when the deathdew lies cold on my brow:\nIf ever I loved thee, my Jesus, 'tis now.\n\n",
+          "In mansions of glory and endless delight,\nI'll ever adore thee in heaven so bright;\nI'll sing with the glittering crown on my brow:\nIf ever I loved thee, my Jesus, 'tis now. \n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "I hear Thy welcome voice",
+        "id": "hymn_ndm_en_ZW_94"
+      },
+      "attributes": {
+        "hymnNumber": 94,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_94"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": true
+      },
+      "captions": {
+        "meter": "6.6.8.6 neKorasi",
+        "key": "Doh is E flat",
+        "tonicSolfa": "{ :d .m|s :- m:r .d |d :- :d |r :-f :l .s|m :- ||}",
+        "subtitle": "Calvary",
+        "ndebele": "(Ndebele 116)"
+      },
+      "content": {
+        "chorus": "chorus\nI am coming, Lord!\nComing now to Thee!\nWash me, cleanse me in the blood\nThat flowed on Calvary!\n\n",
+        "stanzas": [
+          "I hear Thy welcome voice\nThat calls me, Lord, to Thee,\nFor cleansing in Thy precious blood\nThat flowed on Calvary.\nchorus\nI am coming, Lord!\nComing now to Thee!\nWash me, cleanse me in the blood\nThat flowed on Calvary!\n\n",
+          "Tho' coming weak and vile,\nThou dost my strength assure;\nThou dost my vileness fully cleanse,\nTill spotless all, and pure.\n\n",
+          "3. 'Tis Jesus calls me on\nTo perfect faith and love,\nTo perfect hope and peace and trust,\nFor earth and heav'n above.\n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "O come, all ye faithful, joyful and triumphant!",
+        "id": "hymn_ndm_en_ZW_28"
+      },
+      "attributes": {
+        "hymnNumber": 28,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_28"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": true
+      },
+      "captions": {
+        "meter": "Rusina Mwero.....",
+        "key": "Doh is A",
+        "tonicSolfa": "{| :d |d :- |s, :d |r :- |s, :- ||}"
+      },
+      "content": {
+        "chorus": "chorus:\nO come, let us adore him,\nO come, let us adore him,\nO come, let us adore him, Christ the Lord!\n\n",
+        "stanzas": [
+          "O come, all ye faithful, joyful and triumphant!\nO come ye, O come ye to Bethlehem!\nCome and behold him, born the King of angels;\nchorus:\nO come, let us adore him,\nO come, let us adore him,\nO come, let us adore him, Christ the Lord!\n\n",
+          "God of God, Light of Light eternal,\nlo, he abhors not the virgin’s womb;\nSon of the Father, begotten, not created;\n\n",
+          "Sing, choirs of angels, sing in exultation,\nsing, all ye citizens of heaven above:\n“Glory to God, all glory in the highest!”\n\n",
+          "Yea, Lord, we greet thee, born this happy morning;\nJesus, to thee be all glory given;\nWord of the Father, now in flesh appearing;\n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "Jesus, keep me near the cross,",
+        "id": "hymn_ndm_en_ZW_58"
+      },
+      "attributes": {
+        "hymnNumber": 58,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_58"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": true
+      },
+      "captions": {
+        "meter": "7.6.7.6 neKorasi Near the Cross",
+        "key": "Doh is F",
+        "tonicSolfa": "{|m ;- :f |m :- :r |d :- :l, |l, :- :- }"
+      },
+      "content": {
+        "chorus": "chorus\nIn the cross, in the cross,\nBe my glory ever;\nFrom the cross my ransomed soul\nNothing then shall sever.\n\n",
+        "stanzas": [
+          "Jesus, keep me near the cross,\nThere a precious fountain,\nFree to all—a healing stream,\nFlows from Calv’ry’s mountain.\nchorus\nIn the cross, in the cross,\nBe my glory ever;\nFrom the cross my ransomed soul\nNothing then shall sever.\n\n",
+          "Near the cross, a trembling soul,\nLove and mercy found me;\nThere the Bright and Morning Star\nSheds its beams around me.\n\n",
+          "Near the cross! O Lamb of God,\nBring its scenes before me;\nHelp me walk from day to day,\nWith its shadow o’er me.\n\n",
+          "Near the cross I’ll watch and wait,\nHoping, trusting ever,\nTill I see my Savior’s face,\nLeave His presence never.\n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "Take the name of Jesus with you,",
+        "id": "hymn_ndm_en_ZW_18"
+      },
+      "attributes": {
+        "hymnNumber": 18,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_18"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": true
+      },
+      "captions": {
+        "meter": "8.8.8.8 neKorasi Precious Name",
+        "key": "Doh is A Flat",
+        "tonicSolfa": "{|s, :d |m -.r:d -.r|d :- |s, :- |}"
+      },
+      "content": {
+        "chorus": "chorus \nPrecious name! Oh, how sweet!\nHope of earth and joy of heav’n;\nPrecious name! Oh, how sweet!\nHope of earth and joy of heav’n.\n\n",
+        "stanzas": [
+          "Take the name of Jesus with you,\nChild of sorrow and of woe;\nIt will joy and comfort give you,\nTake it then where’er you go.\nchorus \nPrecious name! Oh, how sweet!\nHope of earth and joy of heav’n;\nPrecious name! Oh, how sweet!\nHope of earth and joy of heav’n.\n\n",
+          "Take the name of Jesus ever,\nAs a shield from every snare.\nIf temptations round you gather,\nBreathe that holy name in prayer.\n\n",
+          "Oh, the precious name of Jesus,\nHow it thrills our souls with joy;\nAll the favor of the Father\nIn this name we may enjoy.\n\n",
+          "At the name of Jesus bowing,\nFalling prostrate at His feet,\nClaim His vict’ry over evil\nAnd the enemy defeat.\n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "We've a story to tell to the nations,",
+        "id": "hymn_ndm_en_ZW_42"
+      },
+      "attributes": {
+        "hymnNumber": 42,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_42"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": false
+      },
+      "captions": {
+        "meter": "10.8.8.7 neKorasi",
+        "key": "Doh is F",
+        "tonicSolfa": "{:d .,r| m :m .,m|f :m.,re|m :- |d }",
+        "subtitle": "Message"
+      },
+      "content": {
+        "stanzas": [
+          "We've a story to tell to the nations,\nthat shall turn their hearts to the right,\na story of truth and mercy,\na story of peace and light,\na story of peace and light.\n\n",
+          "chorus:\nFor the darkness shall turn to dawning,\nand the dawning to noonday bright,\nand Christ's great kingdom shall come on earth,\nthe kingdom of love and light.\n\n",
+          "We've a song to be sung to the nations,\nthat shall lift their hearts to the Lord,\na song that shall conquer evil\nand shatter the spear and sword,\nand shatter the spear and sword.\n\n",
+          "We've a message to give to the nations,\nthat the Lord who reigneth above\nhas sent us His Son to save us,\nand show us that God is love,\nand show us that God is love.\n\n",
+          "We've a Savior to show to the nations,\nwho the path of sorrow has trod,\nthat all of the world's great peoples\nmay come to the truth of God,\nmay come to the truth of God.\n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "My heart and voice I raise,",
+        "id": "hymn_ndm_en_ZW_26"
+      },
+      "attributes": {
+        "hymnNumber": 26,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_26"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": false
+      },
+      "captions": {
+        "meter": "6.6.8.6.6.8",
+        "key": "Doh is F",
+        "tonicSolfa": "{| :d |d .d :r .t, |d ||}"
+      },
+      "content": {
+        "stanzas": [
+          "My heart and voice I raise,\nTo spread Messiah’s praise;\nMessiah’s praise let all repeat:\nThe universal Lord,\nBy whose almighty Word\nCreation rose in form complete.\n\n",
+          "A servant’s form He wore,\nAnd in His body bore\nOur dreadful curse on Calvary:\nHe like a victim stood,\nAnd poured His sacred blood,\nTo set the guilty captive free.\n\n",
+          "But soon the Victor rose\nTriumphant o’er His foes,\nAnd led the vanquished host in chains;\nHe threw their empire down,\nHis foes compelled to own—\nO’er all, the great Messiah reigns.\n\n",
+          "With mercy’s mildest grace,\nHe governs all our race,\nIn wisdom, righteousness, and love:\nWho to Messiah fly\nShall find redemption nigh,\nAnd all His great salvation prove.\n\n",
+          "Hail, Savior, Prince of Peace!\nThy kingdom shall increase,\nTill all the world Thy glory see;\nAnd righteousness abound,\nAs the great deep profound,\nAnd fill the earth with purity!\n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "Come to the Savior, make no delay -",
+        "id": "hymn_ndm_en_ZW_107"
+      },
+      "attributes": {
+        "hymnNumber": 107,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_107"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": true
+      },
+      "captions": {
+        "meter": "9.9.9.6 neKorasi",
+        "key": "Doh is b flat",
+        "tonicSolfa": "{|s, :l, .,s, |m, :s, |d :r .,d |l, :- |}",
+        "subtitle": "Come to the Saviour"
+      },
+      "content": {
+        "chorus": "chorus\nJoyful, joyful will the meeting be,\nWhen from sin our hearts are pure and free,\nAnd we shall gather, Savior, with Thee,\nIn our eternal home.\n\n",
+        "stanzas": [
+          "Come to the Savior, make no delay -\nHere in His Word He's shown us the way;\nHere in our midst He’s standing today,\nTenderly saying, Come!\nchorus\nJoyful, joyful will the meeting be,\nWhen from sin our hearts are pure and free,\nAnd we shall gather, Savior, with Thee,\nIn our eternal home.\n\n",
+          "Suffer the children! O hear His voice,\nLet ev'ry heart leap forth and rejoice,\nAnd let us freely make Him our choice:\nDo not delay, but come.\n\n",
+          "Think once again, He’s with us today -\nHeed now His blest commands, and obey;\nHear now His accents tenderly say,\nWill you, my children, come?\n\n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "O come and mourn with me awhile;",
+        "id": "hymn_ndm_en_ZW_53"
+      },
+      "attributes": {
+        "hymnNumber": 53,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_53"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": false
+      },
+      "captions": {
+        "meter": "8.8.8.8",
+        "key": "Doh is F",
+        "tonicSolfa": "{d :-|d :r |m :-|-:l |s :-|f :- |m :- |-:-||}"
+      },
+      "content": {
+        "stanzas": [
+          "O come and mourn with me awhile;\nO come ye to the Saviour's side;\nO come, together let us mourn;\nJesus, our Lord, is crucified.\n\n",
+          "Have we no tears to shed for Him,\nWhile soldiers scoff and Jews deride?\nAh! Look how patiently He hangs;\nJesus, our Lord, is crucified.\n\n",
+          "Seven times He spake, seven words of love;\nAnd all three hours His silence cried\nFor mercy on the souls of men;\nJesus, our Lord, is crucified.\n\n",
+          "A broken heart, a fount of tears,\nAsk, and they will not be denied;\nLord Jesu, may we love and weep,\nSince Thou for us art crucified.\n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "Abide with me! fast falls the eventide;",
+        "id": "hymn_ndm_en_ZW_293"
+      },
+      "attributes": {
+        "hymnNumber": 293,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_293"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": false
+      },
+      "captions": {
+        "meter": "10.10.10.10",
+        "key": "Doh is E flat",
+        "tonicSolfa": "{|m :-|m :r |d :-|s :-|l :s |s :f |m :- |- :- ||}"
+      },
+      "content": {
+        "stanzas": [
+          "Abide with me! fast falls the eventide;\nThe darkness deepens; Lord, with me abide!\nWhen other helpers fail and comforts flee,\nHelp of the helpless, oh, abide with me.\n\n",
+          "Swift to its close ebbs out life’s little day;\nEarth’s joys grow dim, its glories pass away;\nChange and decay in all around I see;\nO Thou who changest not, abide with me.\n\n",
+          "Come not in terrors, as the King of kings;\nBut kind and good, with healing in Thy wings:\nTears for all woes, a heart for every plea;\nCome, Friend of sinners, thus abide with me.\n\n",
+          "I need Thy presence every passing hour:\nWhat but Thy grace can foil the tempter’s power?\nWho like Thyself my guide and stay can be?\nThrough cloud and sunshine, oh, abide with me.\n\n",
+          "I fear no foe, with Thee at hand to bless:\nIlls have no weight, and tears no bitterness:\nWhere is death’s sting? where, grave, thy victory?\nI triumph still, if Thou abide with me.\n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "A few more years shall roll,",
+        "id": "hymn_ndm_en_ZW_195"
+      },
+      "attributes": {
+        "hymnNumber": 195,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_195"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": false
+      },
+      "captions": {
+        "meter": "6.6.8.6 neKorasi",
+        "key": "Doh is G",
+        "tonicSolfa": "{ :d .r|m :r .d |l, :s, |d :- |- : }",
+        "subtitle": "Revive Thy work, o Lord"
+      },
+      "content": {
+        "stanzas": [
+          "A few more years shall roll,\nA few more seasons come,\nAnd we shall be with those that rest\nAsleep within the tomb:\nThen, O my Lord, prepare\nMy soul for that great day;\nO wash me in Thy precious Blood,\nAnd take my sins away.\n\n",
+          "A few more suns shall set\nO'er these dark hills of time,\nAnd we shall be where suns are not,\nA far serener clime:\nThen, O my Lord, prepare\nMy soul for that blest day;\nO wash me in Thy precious Blood,\nAnd take my sins away.\n\n",
+          "A few more storms shall beat\nOn this wild rocky shore,\nAnd we shall be where tempests cease,\nAnd surges swell no more:\nThen, O my Lord, prepare\nMy soul for that calm day;\nO wash me in Thy precious Blood,\nAnd take my sins away.\n\n",
+          "A few more struggles here,\nA few more partings o'er,\nA few more toils, a few more tears,\nAnd we shall weep no more:\nThen, O my Lord, prepare\nMy soul for that bright day;\nO wash me in Thy precious Blood,\nAnd take my sins away.\n\n",
+          "'Tis but a little while\nAnd He shall come again,\nWho died that we might live, Who lives\nThat we with Him may reign:\nThen, O my Lord, prepare\nMy soul for that glad day;\nO wash me in Thy precious blood,\nAnd take my sins away.\n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "Praise, O praise our God and King;",
+        "id": "hymn_ndm_en_ZW_5"
+      },
+      "attributes": {
+        "hymnNumber": 5,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_5"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": false
+      },
+      "captions": {
+        "meter": "7.7 neKorasi",
+        "key": "Doh is G",
+        "tonicSolfa": "{|d :d |r :r |m :f |r :- ||}",
+        "subtitle": "Ever Faithful"
+      },
+      "content": {
+        "stanzas": [
+          "Praise, O praise our God and King;\nhymns of adoration sing;\nfor his mercies still endure\never faithful, ever sure.\n\n",
+          "Praise him that he made the sun\nday by day his course to run;\nfor his mercies still endure\never faithful, ever sure;\n\n",
+          "and the silver moon by night,\nshining with her gentle light;\nfor his mercies still endure\never faithful, ever sure.\n\n",
+          "Praise him that he gave the rain\nto mature the swelling grain;\nfor his mercies still endure\never faithful, ever sure;\n\n",
+          "and hath bid the fruitful field\ncrops of precious increase yield;\nfor his mercies still endure\never faithful, ever sure.\n\n",
+          "Praise him for our harvest-store,\nhe hath filled the garner-floor;\nfor his mercies still endure\never faithful, ever sure.\n\n",
+          "And for richer food than this,\npledge of everlasting bliss;\nfor his mercies still endure\never faithful, ever sure.\n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "Infant holy, infant lowly,",
+        "id": "hymn_ndm_en_ZW_38"
+      },
+      "attributes": {
+        "hymnNumber": 38,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_38"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": false
+      },
+      "captions": {
+        "meter": "8.7.8.7.8.8.7",
+        "key": "Doh is G",
+        "tonicSolfa": "{|s, .s, :d :d |t,.d :r :r |m.f:s :f |m.r:d :- |}",
+        "subtitle": "Infant Lowly"
+      },
+      "content": {
+        "stanzas": [
+          "Infant holy, infant lowly,\nfor his bed a cattle stall;\noxen lowing, little knowing\nChrist the babe is Lord of all.\nSwift are winging angels singing,\nnoels ringing, tidings bringing:\nChrist the babe is Lord of all!\nChrist the babe is Lord of all!\n\n",
+          "Flocks were sleeping; shepherds keeping\nvigil till the morning new\nsaw the glory, heard the story,\ntidings of the gospel true.\nThus rejoicing, free from sorrow,\npraises voicing greet the morrow:\nChrist the babe was born for you!\nChrist the babe was born for you!\n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "The great Physician now is near,",
+        "id": "hymn_ndm_en_ZW_123"
+      },
+      "attributes": {
+        "hymnNumber": 123,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_123"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": true
+      },
+      "captions": {
+        "meter": "8.7.8.7 neKorasi",
+        "key": "Doh is E flat",
+        "tonicSolfa": "{ :s |s :- :m |d :- :r |m :- :1 |s :- :}",
+        "subtitle": "Great Physician"
+      },
+      "content": {
+        "chorus": "chorus\nSweetest note in seraph song,\nsweetest name on mortal tongue;\nsweetest carol ever sung,\nJesus, blessed Jesus.\n\n",
+        "stanzas": [
+          "The great Physician now is near,\nthe sympathizing Jesus;\nHe speaks the drooping heart to cheer,\noh! hear the voice of Jesus.\nchorus\nSweetest note in seraph song,\nsweetest name on mortal tongue;\nsweetest carol ever sung,\nJesus, blessed Jesus.\n\n",
+          "Your many sins are all forgiven,\noh! hear the voice of Jesus;\ngo on your way in peace to heaven,\nand wear a crown with Jesus.\n\n",
+          "All glory to the risen Lamb!\nI now believe in Jesus;\nI love the blessed Savior's name,\nI love the name of Jesus.\n\n",
+          "His name dispels my guilt and fear,\nno other name but Jesus;\noh! how my soul delights to hear\nthe charming name of Jesus.\n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "What a friend we have in Jesus,",
+        "id": "hymn_ndm_en_ZW_173"
+      },
+      "attributes": {
+        "hymnNumber": 173,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_173"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": false
+      },
+      "captions": {
+        "meter": "8.7.8.7.8.7.8.7",
+        "key": "Doh is F",
+        "tonicSolfa": "{|s :- .s | l .s :m .d |d :- |l, : |}",
+        "subtitle": "what a Friend"
+      },
+      "content": {
+        "stanzas": [
+          "What a friend we have in Jesus,\nall our sins and griefs to bear!\nWhat a privilege to carry\neverything to God in prayer!\nO what peace we often forfeit,\nO what needless pain we bear,\nall because we do not carry\neverything to God in prayer!\n\n",
+          "Have we trials and temptations?\nIs there trouble anywhere?\nWe should never be discouraged;\ntake it to the Lord in prayer!\nCan we find a friend so faithful\nwho will all our sorrows share?\nJesus knows our every weakness;\ntake it to the Lord in prayer!\n\n",
+          "Are we weak and heavy laden,\ncumbered with a load of care?\nPrecious Savior, still our refuge--\ntake it to the Lord in prayer!\nDo your friends despise, forsake you?\nTake it to the Lord in prayer!\nIn his arms he'll take and shield you;\nyou wilt find a solace there.\n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "Lord, I hear of showers of blessing,",
+        "id": "hymn_ndm_en_ZW_99"
+      },
+      "attributes": {
+        "hymnNumber": 99,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_99"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": false
+      },
+      "captions": {
+        "meter": "8.7.8.7.3",
+        "key": "Doh is G",
+        "tonicSolfa": "{| m :- :f |s :- :d |f :- :m |m :- :r |}",
+        "subtitle": "Even Me",
+        "ndebele": "(Ndebele 183)"
+      },
+      "content": {
+        "stanzas": [
+          "Lord, I hear of showers of blessing,\nthou art scattering full and free;\nshowers the thirsty land refreshing;\nlet some drops now fall on me;\neven me, even me,\nlet some drops now fall on me.\n\n",
+          "Pass me not, O God, my Father,\nsinful though my heart may be;\nthou mightst leave me, but the rather;\nlet thy mercy light on me;\neven me, even me,\nlet thy mercy light on me.\n\n",
+          "Pass me not, O gracious Savior,\nlet me live and cling to thee;\nI am longing for thy favor;\nwhilst thou'rt calling, O call me;\neven me, even me,\nwhilst thou'rt calling, O call me.\n\n",
+          "Pass me not, O mighty Spirit!\nthou canst make the blind to see;\nWitnesser of Jesus' merit,\nspeak the word of power to me;\neven me, even me,\nspeak the word of power to me.\n\n",
+          "Have I been in sin long sleeping,\nlong been slighting, grieving thee?\nHas the world my heart been keeping?\nO forgive and rescue me;\nEven me, even me,\nO forgive and rescue me.\n\n",
+          "Love of God, so pure and changeless,\nblood of Christ, so rich and free;\ngrace of God, so strong and boundless\nmagnify them all in me;\neven me, even me,\nmagnify them all in me.\n\n",
+          "Pass me not; but pardon bringing,\nbind my heart, O Lord, to thee;\nwhilst the streams of life are springing,\nblessing others, O bless me;\neven me, even me,\nblessing others, O bless me.\n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "Low in the grave he lay, Jesus my Savior,",
+        "id": "hymn_ndm_en_ZW_63"
+      },
+      "attributes": {
+        "hymnNumber": 63,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_63"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": true
+      },
+      "captions": {
+        "meter": "6.5.6.4 neKorasi",
+        "key": "Doh is b flat",
+        "tonicSolfa": "{|s, :- |s, :l, |l, :s, |s, :- |}",
+        "subtitle": "Christ Arose"
+      },
+      "content": {
+        "chorus": "chorus\nUp from the grave he arose;\nwith a mighty triumph o'er his foes;\nhe arose a victor from the dark domain,\nand he lives forever, with his saints to reign.\nHe arose! He arose! Hallelujah! Christ arose!\n\n",
+        "stanzas": [
+          "Low in the grave he lay, Jesus my Savior,\nwaiting the coming day, Jesus my Lord!\nchorus\nUp from the grave he arose;\nwith a mighty triumph o'er his foes;\nhe arose a victor from the dark domain,\nand he lives forever, with his saints to reign.\nHe arose! He arose! Hallelujah! Christ arose!\n\n",
+          "Vainly they watch his bed, Jesus my Savior,\nvainly they seal the dead, Jesus my Lord!\n\n",
+          "Death cannot keep its prey, Jesus my Savior;\nhe tore the bars away, Jesus my Lord!\n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "Beneath the cross of Jesus",
+        "id": "hymn_ndm_en_ZW_57"
+      },
+      "attributes": {
+        "hymnNumber": 57,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_57"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": false
+      },
+      "captions": {
+        "meter": "7.6.8.6.8.6.8.6",
+        "key": "Doh is E flat",
+        "tonicSolfa": "{ :s |s :- .s |fe :s |d’ :- |s : |}",
+        "subtitle": "beneath the Cross"
+      },
+      "content": {
+        "stanzas": [
+          "Beneath the cross of Jesus\nI long to take my stand,\nthe shadow of a mighty rock\nwithin a weary land,\na home within the wilderness,\na rest upon the way,\nfrom the burning of the noontide heat\nand the burdens of the day.\n\n",
+          "Upon the cross of Jesus,\nmy eye at times can see\nthe very dying form of one\nwho suffered there for me.\nAnd from my trite heart, with tears,\ntwo wonders I confess:\nthe wonder of his glorious love\nand my unworthiness.\n\n",
+          "I take, O cross, your shadow\nfor my abiding place;\nI ask no other sunshine\nthan the sunshine of his face;\ncontent to let the world go by,\nto know no gain nor loss,\nmy sinful self my only shame,\nmy glory all, the cross.\n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "O worship the King, all glorious above,",
+        "id": "hymn_ndm_en_ZW_2"
+      },
+      "attributes": {
+        "hymnNumber": 2,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_2"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": false
+      },
+      "captions": {
+        "meter": "10.10.11.11",
+        "key": "Doh is A",
+        "tonicSolfa": "{:s, |d :d :r |m   :- :s |d :r :t, |d :- ||}"
+      },
+      "content": {
+        "stanzas": [
+          "O worship the King, all glorious above,\nO gratefully sing God's power and God's love;\nour Shield and Defender, the Ancient of Days,\npavilioned in splendor, and girded with praise.\n\n",
+          "O tell of God's might, O sing of God's grace,\nwhose robe is the light, whose canopy space,\nwhose chariots of wrath the deep thunderclouds form,\nand dark is God's path on the wings of the storm.\n\n",
+          "The earth with its store of wonders untold,\nAlmighty, thy power hath founded of old;\nhath stablished it fast by a changeless decree,\nand round it hath cast, like a mantle, the sea.\n\n",
+          "Thy bountiful care, what tongue can recite?\nIt breathes in the air, it shines in the light;\nit streams from the hills, it descends to the plain,\nand sweetly distills in the dew and the rain.\n\n",
+          "Frail children of dust, and feeble as frail,\nin thee do we trust, nor find thee to fail;\nthy mercies how tender, how firm to the end,\nour Maker, Defender, Redeemer, and Friend.\n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "There is no name so sweet on earth,",
+        "id": "hymn_ndm_en_ZW_48"
+      },
+      "attributes": {
+        "hymnNumber": 48,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_48"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": true
+      },
+      "captions": {
+        "meter": "9.6.9.6 ne Korasi",
+        "key": "Doh is F",
+        "tonicSolfa": "{:s, |d .d :m :d |l, .l, :d :l,}",
+        "subtitle": "The Sweetest Name"
+      },
+      "content": {
+        "chorus": "chorus\nWe love to sing around our King,\nand hail him blessed Jesus;\nfor there's no word ear ever heard\nso dear, so sweet as Jesus.\n\n",
+        "stanzas": [
+          "There is no name so sweet on earth,\nno name so sweet in heaven,\nthe name before his wondrous birth\nto Christ the Savior given.\nchorus\nWe love to sing around our King,\nand hail him blessed Jesus;\nfor there's no word ear ever heard\nso dear, so sweet as Jesus.\n\n",
+          "And when he hung upon the tree,\nthey wrote this name above him;\nthat all might see the reason we\nforevermore must love him.\n\n",
+          "So now, upon his Father's throne,\nalmighty to release us\nfrom sin and pains, he gladly reigns,\nthe Prince and Savior Jesus.\n\n",
+          "To Jesus ev'ry knee shall bow,\nand ev'ry tongue confess him,\nand we unite with saints in light,\nour only Lord to bless him. \n\n",
+          "O Jesus, by that matchless name,\nyour grace shall fail us never;\ntoday as yesterday the same,\nyou art the same forever.\n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "Good Christian friends, rejoice",
+        "id": "hymn_ndm_en_ZW_40"
+      },
+      "attributes": {
+        "hymnNumber": 40,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_40"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": false
+      },
+      "captions": {
+        "meter": "Rusina Mwero........",
+        "key": "Doh is F",
+        "tonicSolfa": "{:d |d :- :d |m :- :f |s :- :l |s :- ||}",
+        "subtitle": "In Dulci Jubilo"
+      },
+      "content": {
+        "stanzas": [
+          "Good Christian friends, rejoice\nwith heart and soul and voice;\ngive ye heed to what we say:\nJesus Christ was born today.\nOx and ass before him bow,\nand he is in the manger now.\nChrist is born today!\nChrist is born today!\n\n",
+          "Good Christian friends, rejoice\nwith heart and soul and voice;\nnow ye hear of endless bliss:\nJesus Christ was born for this!\nHe has opened heaven's door,\nand we are blest forevermore.\nChrist was born for this!\nChrist was born for this!\n\n",
+          "Good Christian friends, rejoice\nwith heart and soul and voice;\nnow ye need not fear the grave:\nJesus Christ was born to save!\nCalls you one and calls you all\nto gain his everlasting hall.\nChrist was born to save!\nChrist was born to save!\n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "Behold the servant of the Lord!",
+        "id": "hymn_ndm_en_ZW_181"
+      },
+      "attributes": {
+        "hymnNumber": 181,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_181"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": false
+      },
+      "captions": {
+        "meter": "8.8.8.8.8.8",
+        "key": "Doh is D",
+        "tonicSolfa": "{ :s |s :m :m |m :d :d |t, :r:f |f :m : }"
+      },
+      "content": {
+        "stanzas": [
+          "Behold the servant of the Lord!\nI wait Thy guiding eye to feel,\nTo hear and keep Thy every word,\nTo prove and do Thy perfect will,\nJoyful from my own works to cease,\nGlad to fulfill all righteousness.\n\n",
+          "Me if Thy grace vouchsafe to use,\nMeanest of all Thy creatures, me,\nThe deed, the time, the manner choose,\nLet all my fruit be found of Thee;\nLet all my works in Thee be wrought,\nBy Thee to full perfection brought.\n\n",
+          "My every weak, though good design,\nO’errule, or change, as seems Thee meet;\nJesus, let all my work be Thine!\nThy work, O Lord, is all complete,\nAnd pleasing in Thy Father’s sight;\nThou only hast done all things right.\n\n",
+          "Here then to Thee Thy own I leave;\nMold as Thou wilt Thy passive clay;\nBut let me all Thy stamp receive,\nBut let me all Thy words obey,\nServe with a single heart and eye,\nAnd to Thy glory live and die.\n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "My Shepherd, you supply my need,",
+        "id": "hymn_ndm_en_ZW_10"
+      },
+      "attributes": {
+        "hymnNumber": 10,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_10"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": false
+      },
+      "captions": {
+        "meter": "8.6.8.6",
+        "key": "Doh is b flat",
+        "tonicSolfa": "{:s, |s, .m, :d :t, |t, .l, :l, |}",
+        "ndebele": "(Ndebele 241)"
+      },
+      "content": {
+        "stanzas": [
+          "My Shepherd, you supply my need,\nmost holy is your name;\nin pastures fresh you make me feed,\nbeside the living stream.\nYou bring my wand'ring spirit back.\nwhen I forsake your ways;\nyou lead me, for your mercy's sake,\nin paths of truth and grace.\n\n",
+          "When through the shades of death I walk,\nyour presence is my stay;\none word of your supporting breath\ndrives all my fears away.\nYour hand in sight of all my foes,\ndoes still my table spread;\nmy cup with Blessings overflows,\nyour oil anoints my head.\n\n",
+          "Your sure provisions gracious God\nattend me all my days;\noh, may your house be my abode,\nand all my work be praise.\nHere would I find a settled rest,\nwhile others go and come;\nno more a stranger, nor a guest,\nbut like a child at home.\n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "Jesus, lover of my soul,",
+        "id": "hymn_ndm_en_ZW_152"
+      },
+      "attributes": {
+        "hymnNumber": 152,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_152"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": false
+      },
+      "captions": {
+        "meter": "7.7.7.7.7.7.7.7",
+        "key": "Doh is E flat",
+        "tonicSolfa": "{|m :s |l :s |s :- .f |m :- ||}",
+        "ndebele": "(Ndebele 229)"
+      },
+      "content": {
+        "stanzas": [
+          "Jesus, lover of my soul,\nlet me to thy bosom fly,\nwhile the nearer waters roll,\nwhile the tempest still is high;\nhide me, O my Savior, hide,\ntill the storm of life is past;\nsafe into the haven guide,\nO receive my soul at last!\n\n",
+          "Other refuge have I none;\nhangs my helpless soul on thee;\nleave, ah! leave me not alone,\nstill support and comfort me.\nAll my trust on thee is stayed,\nall my help from thee I bring;\ncover my defenseless head\nwith the shadow of thy wing.\n\n",
+          "Plenteous grace with thee is found,\ngrace to cover all my sin;\nlet the healing streams abound;\nmake and keep me pure within.\nThou of life the fountain art;\nfreely let me take of thee;\nspring thou up within my heart,\nrise to all eternity.\n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "When mothers of Salem",
+        "id": "hymn_ndm_en_ZW_235"
+      },
+      "attributes": {
+        "hymnNumber": 235,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_235"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": false
+      },
+      "captions": {
+        "meter": "6.7.8.6.8.8.11",
+        "key": "Doh is C",
+        "tonicSolfa": "{ :s |d’ :- |t :l |s : - |s :s |l :s |l :t |d’ :- |s }"
+      },
+      "content": {
+        "stanzas": [
+          "When mothers of Salem\nTheir children brought to Jesus,\nThe stern disciples drove them back and bade them to depart;\nBut Jesus saw them ere they fled,\nAnd sweetly smiled and kindly said,\nSuffer little children\n\nTo come unto Me.\n\n\n\n",
+          "For I will receive them\nAnd fold them to My bosom:\nI’ll be a Shepherd to these lambs, O drive them not away;\nFor, if their hearts to Me they give,\nThey shall with Me in glory live;\nSuffer little children\nTo come unto Me.\n\n\n\n",
+          "How kind was our Saviour\nTo bid these children welcome!\nBut there are many thousands who have never heard His Name;\nThe Bible they have never read,\nThey know not that the Saviour said,\nSuffer little children\n\nTo come unto Me.\n\n",
+          "O soon may the people,\nOf every tribe and nation,\nFulfill Thy blessed Word and cast their idols all away;\nO shine upon them from above,\nAnd show Thyself a God of love;\nTeach the little children\nTo come unto Thee!\n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "O little town of Bethlehem,",
+        "id": "hymn_ndm_en_ZW_39"
+      },
+      "attributes": {
+        "hymnNumber": 39,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_39"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": false
+      },
+      "captions": {
+        "meter": "8.6.8.6.7.6.8.6",
+        "key": "Doh is G",
+        "tonicSolfa": "{:s, |d :d |d :r |m.r :m.f|s :m |f :m.d|r :r|d :-| - ||}",
+        "subtitle": "Forest Green"
+      },
+      "content": {
+        "stanzas": [
+          "O little town of Bethlehem,\nhow still we see thee lie!\nAbove thy deep and dreamless sleep\nthe silent stars go by.\nYet in thy dark streets shineth\nthe everlasting Light;\nthe hopes and fears of all the years\nare met in thee tonight.\n\n",
+          "For Christ is born of Mary,\nand gathered all above,\nwhile mortals sleep, the angels keep\ntheir watch of wondering love.\nO morning stars, together\nproclaim the holy birth,\nand praises sing to God the King,\nand peace to all on earth.\n\n",
+          "How silently, how silently\nthe wondrous gift is given!\nSo God imparts to human hearts\nthe blessings of his heaven.\nNo ear may hear his coming,\nbut in this world of sin,\nwhere meek souls will receive him still\nthe dear Christ enters in.\n\n",
+          "O holy Child of Bethlehem,\ndescend to us, we pray.\nCast out our sin and enter in;\nbe born in us today.\nWe hear the Christmas angels\nthe great glad tidings tell;\nO come to us, abide with us,\nour Lord Emmanuel.\n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "Tell me the stories of Jesus",
+        "id": "hymn_ndm_en_ZW_47"
+      },
+      "attributes": {
+        "hymnNumber": 47,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_47"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": false
+      },
+      "captions": {
+        "key": "Doh is G 8.4.8.4.5.4.5.4",
+        "tonicSolfa": "{|s :m :f |s :t :l |s :- :- |m :- :- |}",
+        "subtitle": "Stories of Jesus"
+      },
+      "content": {
+        "stanzas": [
+          "Tell me the stories of Jesus\nI love to hear;\nThings I would ask Him to tell me\nIf He were here:\nScenes by the wayside,\nTales of the sea,\nStories of Jesus,\nTell them to me.\n\n",
+          "First let me hear how the children\nStood 'round His knee,\nAnd I shall fancy His blessing Resting on me;\nWords full of kindness,\nDeeds full of grace,\nAll in the love light\nOf Jesus' face.\n\n",
+          "Into the city I'd follow,\nThere take my stand,\nWaving a branch of the palm tree\nHigh in my hand;\nOne of His heralds,\nYes, I would sing\nLoudest hosannas,\nJesus is King!\n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "Holy, holy, holy! Lord God Almighty!",
+        "id": "hymn_ndm_en_ZW_85"
+      },
+      "attributes": {
+        "hymnNumber": 85,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_85"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": false
+      },
+      "captions": {
+        "key": "Doh is E 11.12.12.10",
+        "tonicSolfa": "{|d :d |m :m |s :-| :-|1 :1 |s :-|m :- ||}",
+        "ndebele": "(Ndebele 13)"
+      },
+      "content": {
+        "stanzas": [
+          "Holy, holy, holy! Lord God Almighty!\nEarly in the morning our song shall rise to thee;\nholy, holy, holy! merciful and mighty,\nGod in three persons, blessed Trinity!\n\n",
+          "Holy, holy, holy! All the saints adore thee,\ncasting down their golden crowns around the glassy sea;\ncherubim and seraphim falling down before thee,\nwho wert and art and evermore shalt be.\n\n",
+          "Holy, holy, holy! Though the darkness hide thee,\nthough the eye made blind by sin thy glory may not see,\nonly thou art holy; there is none beside thee,\nperfect in power, in love, and purity.\n\n",
+          "Holy, holy, holy! Lord God Almighty!\nAll thy works shall praise thy name, in earth and sky and sea;\nholy, holy, holy! merciful and mighty,\nGod in three persons, blessed Trinity!\n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "Onward, Christian soldiers,",
+        "id": "hymn_ndm_en_ZW_250"
+      },
+      "attributes": {
+        "hymnNumber": 250,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_250"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": true
+      },
+      "captions": {
+        "meter": "11.11.11.11 neKorasi",
+        "key": "Doh is F",
+        "tonicSolfa": "{|s :s |s :s |s :-.l|s :- || r :r |d :r |m :- | :- ||}",
+        "ndebele": "(Ndebele 317)"
+      },
+      "content": {
+        "chorus": "chorus\nOnward, Christian soldiers,\nmarching as to war,\nWith the cross of Jesus\ngoing on before!\n\n",
+        "stanzas": [
+          "Onward, Christian soldiers,\nmarching as to war,\nWith the cross of Jesus\ngoing on before!\nChrist, the royal Master,\nleads against the foe;\nForward into battle,\nsee his banner go!\nchorus\nOnward, Christian soldiers,\nmarching as to war,\nWith the cross of Jesus\ngoing on before!\n\n",
+          "At the sign of triumph\nSatan's host doth flee;\nOn, then, Christian soldiers,\non to victory!\nHell's foundations quiver\nat the shout of praise;\nBrothers, lift your voices,\nloud your anthems raise!\n\n",
+          "Like a mighty army\nmoves the church of God;\nBrothers, we are treading\nwhere the saints have trod;\nWe are not divided;\nall one body we,\nOne in hope and doctrine,\none in charity.\n\n",
+          "Onward, then, ye people,\njoin our happy throng,\nBlend with ours your voices\nin the triumph song;\nGlory, laud, and honor,\nunto Christ the King;\nThis thro' countless ages\nmen and angels sing.\n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "Blessed assurance, Jesus is mine;",
+        "id": "hymn_ndm_en_ZW_144"
+      },
+      "attributes": {
+        "hymnNumber": 144,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_144"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": true
+      },
+      "captions": {
+        "meter": "Rusina Mwero…",
+        "key": "Doh is D…",
+        "tonicSolfa": "{|m :r :d |s :- :- |s :- :- |f :s :l |s :- :- |- :- :- |}",
+        "subtitle": "blessed Assurance"
+      },
+      "content": {
+        "chorus": "chorus\nThis is my story, this is my song,\nPraising my Savior all the day long.\nThis is my story, this is my song,\nPraising my Savior all the day long.\n\n",
+        "stanzas": [
+          "Blessed assurance, Jesus is mine;\nOh, what a foretaste of glory divine!\nHeir of salvation, purchase of God,\nBorn of His Spirit, washed in His blood.\nchorus\nThis is my story, this is my song,\nPraising my Savior all the day long.\nThis is my story, this is my song,\nPraising my Savior all the day long.\n\n",
+          "Perfect submission, perfect delight,\nVisions of rapture now burst on my sight;\nAngels descending, bring from above\nEchoes of mercy, whispers of love.\n\n",
+          "Perfect submission, all is at rest,\nI in my Savior am happy and blest;\nWatching and waiting, looking above,\nFilled with His goodness, lost in His love.\n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "Sinners Jesus will receive:",
+        "id": "hymn_ndm_en_ZW_103"
+      },
+      "attributes": {
+        "hymnNumber": 103,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_103"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": true
+      },
+      "captions": {
+        "meter": "7.7.7.7 neKorasi",
+        "key": "Doh is D",
+        "tonicSolfa": "{ :m .,f |s :- .l :m .,l |s :- : }",
+        "subtitle": "Christ Receiveth"
+      },
+      "content": {
+        "chorus": "chorus\nSing it o'er (Sing it o'er again)\nand o'er again:(Sing it o'er again:)\nChrist receiveth (Christ receiveth sinful men)\nsinful men, (Christ receiveth sinful men)\nMake the message (Make the message clear and plain)\nclear and plain: (Make the message clear and plain)\nChrist receiveth sinful men.\n\n",
+        "stanzas": [
+          "Sinners Jesus will receive:\nSound this word of grace to all\nWho the heav'nly pathway leave,\nAll who linger, all who fall.\nchorus\nSing it o'er (Sing it o'er again)\nand o'er again:(Sing it o'er again:)\nChrist receiveth (Christ receiveth sinful men)\nsinful men, (Christ receiveth sinful men)\nMake the message (Make the message clear and plain)\nclear and plain: (Make the message clear and plain)\nChrist receiveth sinful men.\n\n",
+          "Come and He will give you rest;\nTrust Him for His word is plain;\nHe will take the sinfulest;\nChrist receiveth sinful men.\n\n",
+          "Now my heart condemns me not,\nPure before the law I stand;\nHe who cleansed me from all spot\nSatisfied its last demand. \n\n",
+          "Christ receiveth sinful men,\nEven me with all my sin;\nPurged from ev’ry spot and stain,\nHeav’n with Him I enter in.\n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "We three kings of Orient are;",
+        "id": "hymn_ndm_en_ZW_43"
+      },
+      "attributes": {
+        "hymnNumber": 43,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_43"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": true
+      },
+      "captions": {
+        "meter": "8.8.14 neKorasi",
+        "key": "Doh is G",
+        "tonicSolfa": "{|m :- :r |d :- :l, |t, :d :t, |l, :- : |}",
+        "subtitle": "Kings of orient"
+      },
+      "content": {
+        "chorus": "chorus:\nO star of wonder, star of light,\nstar with royal beauty bright,\nwestward leading, still proceeding,\nguide us to thy perfect light.\n\n",
+        "stanzas": [
+          "We three kings of Orient are;\nbearing gifts we traverse afar,\nfield and fountain, moor and mountain,\nfollowing yonder star.\nchorus:\nO star of wonder, star of light,\nstar with royal beauty bright,\nwestward leading, still proceeding,\nguide us to thy perfect light.\n\n",
+          "Born a King on Bethlehem's plain,\ngold I bring to crown him again,\nKing forever, ceasing never,\nover us all to reign.\n\n",
+          "Frankincense to offer have I;\nincense owns a Deity nigh;\nprayer and praising, voices raising,\nworshiping God on high.\n\n",
+          "Myrrh is mine; its bitter perfume\nbreathes a life of gathering gloom;\nsorrowing, sighing, bleeding, dying,\nsealed in the stone-cold tomb.\n\n",
+          "Glorious now behold him arise;\nKing and God and sacrifice:\nAlleluia, Alleluia,\nsounds through the earth and skies.\n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "Fight the good fight With all thy might;",
+        "id": "hymn_ndm_en_ZW_154"
+      },
+      "attributes": {
+        "hymnNumber": 154,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_154"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": false
+      },
+      "captions": {
+        "meter": "8.8.8.8",
+        "key": "Doh is E",
+        "tonicSolfa": "{|d :m .f |s :l .t |d’ : t .l|s :- ||}"
+      },
+      "content": {
+        "stanzas": [
+          "Fight the good fight With all thy might;\nChrist is thy Strength and Christ thy Right.\nLay hold on life, and it shall be\nThy joy and crown eternally.\n\n",
+          "Run the straight race Thro' God's good grace;\nLift up thine eyes and seek His face.\nLife with its way before us lies;\nChrist is the Path and Christ the Prize.\n\n",
+          "Cast care aside; Upon thy Guide\nLean, and His mercy will provide;\nLean, and the trusting soul shall prove\nChrist is its Life and Christ its Love.\n\n",
+          "Faint not nor fear, His arms are near;\nHe changeth not, and thou art dear.\nOnly believe, and thou shalt see\nThat Christ is All in all to thee. \n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "How sweet the Name of Jesus sounds",
+        "id": "hymn_ndm_en_ZW_17"
+      },
+      "attributes": {
+        "hymnNumber": 17,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_17"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": false
+      },
+      "captions": {
+        "meter": "8.6.8.6",
+        "key": "Doh is E flat",
+        "tonicSolfa": "{| :s |d’ :t |l :s |s :f |m ||}"
+      },
+      "content": {
+        "stanzas": [
+          "How sweet the Name of Jesus sounds\nin a believer's ear!\nIt soothes his sorrows, heals his wounds,\nand drives away his fear.\n\n",
+          "It makes the wounded spirit whole,\nand calms the troubled breast;\n'tis manna to the hungry soul,\nand to the weary, rest.\n\n",
+          "Dear Name, the rock on which I build,\nmy shield and hiding-place,\nmy never-failing treasury, filled\nwith boundless stores of grace!\n\n",
+          "Jesus! my Shepherd, Brother, Friend,\nmy Prophet, Priest and King,\nmy Lord, my Life, my Way, my End,\naccept the praise I bring.\n\n",
+          "Weak is the effort of my heart,\nand cold my warmest thought;\nbut when I see thee as thou art,\nI'll praise thee as I ought.\n\n",
+          "Till then I would thy love proclaim\nwith every fleeting breath;\nand may the music of thy Name\nrefresh my soul in death!\n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "Jerusalem, my happy home,",
+        "id": "hymn_ndm_en_ZW_204"
+      },
+      "attributes": {
+        "hymnNumber": 204,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_204"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": false
+      },
+      "captions": {
+        "meter": "8.6.8.6",
+        "key": "Doh is F",
+        "tonicSolfa": "{|d :l, .s, |d :r |m .m :r |}",
+        "ndebele": "(Ndebele 258)"
+      },
+      "content": {
+        "stanzas": [
+          "Jerusalem, my happy home,\nname ever dear to me,\nwhen shall my labours have an end,\nthy joys when shall I see?\n\n",
+          "When shall these eyes thy heaven-built walls\nand pearly gates behold,\nthy bulwarks with salvation strong,\nand streets of shining gold?\n\n",
+          "Apostles, martyrs, prophets, there\naround my Saviour stand;\nand all I love in Christ below\nwill join the glorious band.\n\n",
+          "Jerusalem, my happy home,\nwhen shall I come to thee?\nWhen shall my labours have an end,\nthy joys when shall I see?\n\n",
+          "O Christ, do thou my soul prepare\nfor that bright home oflove;\nthat I may see thee and adore,\nwith all thy saints above.\n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "There is a fountain filled with blood",
+        "id": "hymn_ndm_en_ZW_108"
+      },
+      "attributes": {
+        "hymnNumber": 108,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_108"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": false
+      },
+      "captions": {
+        "meter": "8.6.8.6 neKorasi",
+        "key": "Doh is G",
+        "tonicSolfa": "{ :d |t, .r :r :r |d .m :m :  }",
+        "subtitle": "I Do belive"
+      },
+      "content": {
+        "stanzas": [
+          "There is a fountain filled with blood\nDrawn from Immanuel's veins;\nAnd sinners, plunged beneath that flood,\nLose all their guilty stains:\nLose all their guilty stains,\nLose all their guilty stains;\nAnd sinners, plunged beneath that flood,\nLose all their guilty stains.\n\n",
+          "The dying thief rejoiced to see\nThat fountain in his day;\nAnd there may I, though vile as he,\nWash all my sins away:\nWash all my sins away,\nWash all my sins away;\nAnd there may I, though vile as he,\nWash all my sins away.\n\n",
+          "Dear dying Lamb, Thy precious blood\nShall never lose its pow'r,\nTill all the ransomed Church of God\nBe saved, to sin no more:\nBe saved, to sin no more,\nBe saved, to sin no more;\nTill all the ransomed Church of God\nBe saved to sin no more.\n\n",
+          "E'er since by faith I saw the stream\nThy flowing wounds supply,\nRedeeming love has been my theme,\nAnd shall be till I die:\nAnd shall be till I die,\nAnd shall be till I die;\nRedeeming love has been my theme,\nAnd shall be till I die.\n\n",
+          "When this poor lisping, stamm'ring tongue\nLies silent in the grave,\nThen in a nobler, sweeter song\nI'll sing Thy pow'r to save:\nI'll sing Thy pow'r to save,\nI'll sing Thy pow'r to save;\nthen in a nobler, sweeter song\nI'll sing Thy pow'r to save.\n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "Revive Thy work, O Lord,",
+        "id": "hymn_ndm_en_ZW_217"
+      },
+      "attributes": {
+        "hymnNumber": 217,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_217"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": false
+      },
+      "captions": {
+        "meter": "6.6.8.6 neKorasi",
+        "key": "Doh is G",
+        "tonicSolfa": "{ :d .r |m :r .d |l, :s, |d :- |- : }",
+        "subtitle": "Revive Thy work, o Lord"
+      },
+      "content": {
+        "stanzas": [
+          "Revive Thy work, O Lord,\nThy mighty arm make bare;\nSpeak with the voice that wakes the dead,\nAnd make Thy people hear.\n\n",
+          "Revive Thy work, O Lord,\nDisturb this sleep of death;\nQuicken the smouldering embers now\nBy Thine almighty breath.\n\n",
+          "Revive Thy work, O Lord,\nCreate soul-thirst for Thee;\nAnd hungering for the Bread of Life,\nOh, may our spirits be!\n\n",
+          "Revive Thy work, O Lord,\nExalt Thy precious Name;\nAnd, by the Holy Ghost, our love\nFor Thee and Thine inflame.\n\n",
+          "Revive Thy work, O Lord,\nAnd give refreshing showers;\nThe glory shall be all Thine own,\nThe blessing, Lord, be ours.\n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "Rock of Ages, cleft for me,",
+        "id": "hymn_ndm_en_ZW_160"
+      },
+      "attributes": {
+        "hymnNumber": 160,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_160"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": false
+      },
+      "captions": {
+        "meter": "7.7.7.7.7.7",
+        "key": "Doh is b flat",
+        "tonicSolfa": "{|d :d |r :m |f :- .f |m :- ||}"
+      },
+      "content": {
+        "stanzas": [
+          "Rock of Ages, cleft for me,\nlet me hide myself in thee;\nlet the water and the blood,\nfrom thy wounded side which flowed,\nbe of sin the double cure;\nsave from wrath and make me pure.\n\n",
+          "Not the labors of my hands\ncan fulfill thy law's demands;\ncould my zeal no respite know,\ncould my tears forever flow,\nall for sin could not atone;\nthou must save, and thou alone.\n\n",
+          "Nothing in my hand I bring,\nsimply to the cross I cling;\nnaked, come to thee for dress;\nhelpless, look to thee for grace;\nfoul, I to the fountain fly;\nwash me, Savior, or I die.\n\n",
+          "While I draw this fleeting breath,\nwhen mine eyes shall close in death,\nwhen I soar to worlds unknown,\nsee thee on thy judgment throne,\nRock of Ages, cleft for me,\nlet me hide myself in thee. \n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "Stand up! stand up for Jesus!",
+        "id": "hymn_ndm_en_ZW_251"
+      },
+      "attributes": {
+        "hymnNumber": 251,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_251"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": true
+      },
+      "captions": {
+        "meter": "7.6.7.6.7.6.7.6",
+        "key": "Doh is b flat",
+        "tonicSolfa": "{ :s, |d :- .d |m : d |d :- |l, ||}",
+        "subtitle": "Morning Light"
+      },
+      "content": {
+        "chorus": "chorus\nStand up for Jesus\nYe soldiers of the cross;\nLift high His royal banner,\nIt must not, it must not suffer loss.\n\n",
+        "stanzas": [
+          "Stand up! stand up for Jesus!\nYe soldiers of the cross;\nLift high His royal banner,\nIt must not suffer loss:\nFrom vict’ry unto vict’ry\nHis army shall He lead,\nTill every foe is vanquished\nAnd Christ is Lord indeed.\nchorus\nStand up for Jesus\nYe soldiers of the cross;\nLift high His royal banner,\nIt must not, it must not suffer loss.\n\n",
+          "Stand up! stand up for Jesus!\nThe trumpet call obey;\nForth to the mighty conflict\nIn this His glorious day.\nYe that are men, now serve Him\nAgainst unnumbered foes;\nLet courage rise with danger.\nAnd strength to strength oppose.\n\n",
+          "Stand up! stand up for Jesus!\nStand in His strength alone;\nThe arm of flesh will fail you;\nYe dare not trust your own.\nPut on the Gospel armor,\nAnd, watching unto prayer,\nWhere duty calls, or danger,\nBe never wanting there.\n\n",
+          "Stand up! stand up for Jesus!\nThe strife will not be long:\nThis day the noise of battle,\nThe next the victor’s song;\nTo him that overcometh\nA crown of life shall be;\nHe, with the King of glory,\nShall reign eternally.\n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "Christians, awake! salute the happy morn,",
+        "id": "hymn_ndm_en_ZW_32"
+      },
+      "attributes": {
+        "hymnNumber": 32,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_32"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": false
+      },
+      "captions": {
+        "meter": "10.10.10.10.10.10",
+        "key": "Doh is D",
+        "tonicSolfa": "{|d :-|d :r |m :- |-:f |s :m |f :s |l :- |- :- ||}"
+      },
+      "content": {
+        "stanzas": [
+          "Christians, awake! salute the happy morn,\nwhereon the Saviour of the world was born;\nrise to adore the mystery of love,\nwhich hosts of angels chanted from above:\nwith them the joyful tidings first begun\nof God incarnate and the Virgin's Son.\n\n",
+          "Then to the watchful shepherds it was told,\nwho heard the angelic herald's voice, 'Behold,\nI bring good tidings of a Saviour's birth\nto you and all the nations upon earth:\nthis day hath God fulfilled his promised word,\nthis day is born a Saviour, Christ the Lord.'\n\n",
+          "He spake; and straightway the celestial choir\nin hymns of joy, unknown before, conspire;\nthe praises of redeeming love they sang,\nand heaven's whole orb with alleluias rang:\nGod's highest glory was their anthem still,\npeace upon earth, and unto men good will.\n\n",
+          "To Bethl'em straight the enlightened shepherds ran,\nto see the wonder God had wrought for man,\nand found, with Joseph and the blessèd Maid,\nher Son, the Saviour, in a manger laid:\nthen to their flocks, still praising God, return,\nand their glad hearts with holy rapture bum.\n\n",
+          "O may we keep and ponder in our mind\nGod's wondrous love in saving lost mankind;\ntrace we the babe, who hath retrieved our loss,\nfrom his poor manger to his bitter cross;\ntread in his steps, assisted by his grace,\ntill man's first heavenly state again takes place.\n\n",
+          "Then may we hope, the angelic hosts among,\nto sing, redeemed, a glad triumphal song:\nhe that was born upon this joyful day\naround us all his glory shall display;\nsaved by his love, incessant we shall sing\neternal praise to heaven's almighty King.\n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "How fast their guilt and sorrows rise",
+        "id": "hymn_ndm_en_ZW_27"
+      },
+      "attributes": {
+        "hymnNumber": 27,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_27"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": false
+      },
+      "captions": {
+        "meter": "8.8.8.8",
+        "key": "Doh is D",
+        "tonicSolfa": "{:s |d’ :t.l|s :l |r :f |m ||}"
+      },
+      "content": {
+        "stanzas": [
+          "How fast their guilt and sorrows rise\nWho haste to seek some idol-god!\nI will not taste their sacrifice,\nTheir offerings of forbidden blood.\n\n",
+          "My God provides a richer cup,\nAnd nobler food to live upon:\nHe for my life has offered up\nJesus, His best-belovèd Son.\n\n",
+          "His love is my perpetual feast;\nBy day His counsels guide me right;\nAnd be His name for ever blessed,\nWho gives me sweet advice by night.\n\n",
+          "I set Him still before mine eyes;\nAt my right hand He stands prepared\nTo keep my soul from all surprise\nAnd be my everlasting guard.\n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "1 I need thee every hour,",
+        "id": "hymn_ndm_en_ZW_153"
+      },
+      "attributes": {
+        "hymnNumber": 153,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_153"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": true
+      },
+      "captions": {
+        "meter": "6.4.6.4 neKorasi",
+        "key": "Doh is A flat",
+        "tonicSolfa": "{ :d |m :- .r :d .t, |d :- : }",
+        "subtitle": "I need Thee"
+      },
+      "content": {
+        "chorus": "chorus\nI need thee, O I need thee,\nevery hour I need thee.\nO bless me now, my Savior;\nI come to thee.\n\n",
+        "stanzas": [
+          "1 I need thee every hour,\nmost gracious Lord;\nno tender voice like thine\ncan peace afford.\nchorus\nI need thee, O I need thee,\nevery hour I need thee.\nO bless me now, my Savior;\nI come to thee.\n\n",
+          "I need thee every hour;\nstay thou near by;\ntemptations lose their power\nwhen thou art nigh.\n\n",
+          "I need thee every hour,\nin joy or pain;\ncome quickly and abide,\nor life is vain.\n\n",
+          "I need thee every hour;\nteach me thy will;\nand thy rich promises\nin me fulfill.\n\n",
+          "I need thee every hour,\nMost Holy One;\nO make me thine indeed,\nthou Blessed Son!\n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "Just as I am, without one plea,",
+        "id": "hymn_ndm_en_ZW_127"
+      },
+      "attributes": {
+        "hymnNumber": 127,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_127"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": false
+      },
+      "captions": {
+        "meter": "8.8.8.6 Just as I am",
+        "key": "Doh is A flat",
+        "tonicSolfa": "{|s, :l, :d |t, :- :s, |d :- :r |m :- :- |}",
+        "ndebele": "(Ndebele186)"
+      },
+      "content": {
+        "stanzas": [
+          "Just as I am, without one plea,\nbut that thy blood was shed for me,\nand that thou bidd'st me come to thee,\nO Lamb of God, I come, I come.\n\n",
+          "Just as I am, and waiting not\nto rid my soul of one dark blot,\nto thee, whose blood can cleanse each spot,\nO Lamb of God, I come, I come.\n\n",
+          "Just as I am, though tossed about\nwith many a conflict, many a doubt,\nfightings and fears within, without,\nO Lamb of God, I come, I come.\n\n",
+          "Just as I am, thou wilt receive,\nwilt welcome, pardon, cleanse, relieve;\nbecause thy promise I believe,\nO Lamb of God, I come, I come. \n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "Arise, my soul, arise,",
+        "id": "hymn_ndm_en_ZW_120"
+      },
+      "attributes": {
+        "hymnNumber": 120,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_120"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": false
+      },
+      "captions": {
+        "meter": "6.6.6.6.8.8",
+        "key": "Doh is D",
+        "tonicSolfa": "{|m :l |s :m |r :- |d :- |}",
+        "subtitle": "Umkululi"
+      },
+      "content": {
+        "stanzas": [
+          "Arise, my soul, arise,\nshake off your guilty fears:\nthe bleeding Sacrifice\nin my behalf appears:\nbefore the throne my Surety stands,\nbefore the throne my Surety stands,\nmy name is written on his hands.\n\n",
+          "He ever lives above,\nfor me to intercede,\nhis all-redeeming love,\nhis precious blood to plead;\nhis blood atoned for ev'ry race,\nhis blood atoned for ev'ry race,\nand sprinkles now the throne of grace.\n\n",
+          "Five bleeding wounds he bears,\nreceived on Calvary;\nthey pour effectual prayers,\nthey strongly plead for me.\nForgive him, O forgive, they cry,\nForgive him, O forgive, they cry,\nnor let that ransomed sinner die!\n\n",
+          "My God is reconciled;\nhis pard'ning voice I hear;\nhe owns me for his child,\nI can no longer fear;\nwith confidence I now draw nigh,\nwith confidence I now draw nigh,\nand Father, Abba, Father! cry.\n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "In loving-kindness Jesus came",
+        "id": "hymn_ndm_en_ZW_104"
+      },
+      "attributes": {
+        "hymnNumber": 104,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_104"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": true
+      },
+      "captions": {
+        "meter": "8.8.8.6 neKorasi",
+        "key": "Doh is G",
+        "tonicSolfa": "{ .s, |s, .l, :l, :- .s,|m .m : :f : }",
+        "subtitle": "He Lifted Me"
+      },
+      "content": {
+        "chorus": "chorus\nFrom sinking sand He lifted me,\nWith tender hand He lifted me,\nFrom shades of night to plains of light,\nOh, praise His name, He lifted me!\n\n",
+        "stanzas": [
+          "In loving-kindness Jesus came\nMy soul in mercy to reclaim,\nAnd from the depths of sin and shame\nThrough grace He lifted me.\nchorus\nFrom sinking sand He lifted me,\nWith tender hand He lifted me,\nFrom shades of night to plains of light,\nOh, praise His name, He lifted me!\n\n",
+          "He called me long before I heard,\nBefore my sinful heart was stirred,\nBut when I took Him at His word,\nForgiv’n, He lifted me.\n\n",
+          "His brow was pierced with many a thorn,\nHis hands by cruel nails were torn,\nWhen from my guilt and grief, forlorn,\nIn love He lifted me.\n\n",
+          "Now on a higher plane I dwell,\nAnd with my soul I know ’tis well;\nYet how or why, I cannot tell,\nHe should have lifted me.\n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "Peace, perfect peace, in this dark world of sin?",
+        "id": "hymn_ndm_en_ZW_164"
+      },
+      "attributes": {
+        "hymnNumber": 164,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_164"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": false
+      },
+      "captions": {
+        "meter": "10.10",
+        "key": "Doh is C",
+        "tonicSolfa": "{|s :- |s :s |s :- |- :s |l : l |l :s |s :- |- :- ||}"
+      },
+      "content": {
+        "stanzas": [
+          "Peace, perfect peace, in this dark world of sin?\nThe blood of Jesus whispers peace within.\n\n",
+          "Peace, perfect peace, by thronging duties pressed?\nTo do the will of Jesus, this is rest.\n\n",
+          "Peace, perfect peace, with sorrows surging round?\nOn Jesus' bosom naught but calm is found.\n\n",
+          "Peace, perfect peace, with loved ones far away?\nIn Jesus' keeping we are safe, and they.\n\n",
+          "Peace, perfect peace, our future all unknown?\nJesus we know, and he is on the throne.\n\n",
+          "Peace, perfect peace, death shadowing us and ours?\nJesus has vanquished death and all its powers.\n\n",
+          "It is enough: earth's struggles soon shall cease,\nand Jesus call us to heaven's perfect peace.\n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "Tell me the old, old story,",
+        "id": "hymn_ndm_en_ZW_49"
+      },
+      "attributes": {
+        "hymnNumber": 49,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_49"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": true
+      },
+      "captions": {
+        "meter": "7.6.7.6.7.6.7.6 neKorasi",
+        "key": "Doh is C",
+        "tonicSolfa": "{|m :m.,f|s :s |l :- |s :s |d’ :d’|d’ :m.,fe|s :- :-||}",
+        "subtitle": "Tell me the old, old Story"
+      },
+      "content": {
+        "chorus": "chorus\nTell me the old, old story,\nTell me the old, old story,\nTell me the old, old story,\nOf Jesus and His love.\n\n",
+        "stanzas": [
+          "Tell me the old, old story,\nOf unseen things above,\nOf Jesus and His glory,\nOf Jesus and His love;\nTell me the story simply,\nAs to a little child,\nFor I am weak and weary,\nAnd helpless and defiled.\nchorus\nTell me the old, old story,\nTell me the old, old story,\nTell me the old, old story,\nOf Jesus and His love.\n\n",
+          "Tell me the story slowly,\nThat I may take it in—\nThat wonderful redemption,\nGod’s remedy for sin;\nTell me the story often,\nFor I forget so soon,\nThe “early dew” of morning\nHas passed away at noon.\n\n",
+          "Tell me the story softly,\nWith earnest tones and grave;\nRemember I’m the sinner\nWhom Jesus came to save;\nTell me the story always,\nIf you would really be,\nIn any time of trouble,\nA comforter to me.\n\n",
+          "Tell me the same old story,\nWhen you have cause to fear\nThat this world’s empty glory\nIs costing me too dear;\nAnd when the Lord’s bright glory\nIs dawning on my soul,\nTell me the old, old story:\n“Christ Jesus makes thee whole.”\n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "Away in a manger, no crib for his bed,",
+        "id": "hymn_ndm_en_ZW_267"
+      },
+      "attributes": {
+        "hymnNumber": 267,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_267"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": false
+      },
+      "captions": {
+        "meter": "Rusina Mwero…",
+        "key": "Doh is F",
+        "tonicSolfa": "{ :s, |d :d :r .m|d :d :m.f|s :s :l |f :- }",
+        "subtitle": "Away in a manger"
+      },
+      "content": {
+        "stanzas": [
+          "Away in a manger, no crib for his bed,\nthe little Lord Jesus laid down his sweet head.\nThe stars in the bright sky looked down where he lay,\nthe little Lord Jesus asleep on the hay.\n\n",
+          "The cattle are lowing, the baby awakes,\nbut little Lord Jesus no crying he makes.\nI love thee, Lord Jesus! Look down from the sky,\nand stay by my side until morning is nigh.\n\n",
+          "Be near me, Lord Jesus; I ask thee to stay\nclose by me for ever, and love me I pray.\nBless all the dear children in thy tender care,\nand fit us for heaven to live with thee there. \n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "When storms around are sweeping,",
+        "id": "hymn_ndm_en_ZW_155"
+      },
+      "attributes": {
+        "hymnNumber": 155,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_155"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": true
+      },
+      "captions": {
+        "meter": "7.7.7.7 neKorasi",
+        "key": "Doh is b flat",
+        "tonicSolfa": "{ |s, :m, .s, |d :- .d |d :t, }",
+        "subtitle": "Remember me, o Mighty God"
+      },
+      "content": {
+        "chorus": "chorus\nRemember me, O Mighty One!\nRemember me, O Mighty One!\n\n",
+        "stanzas": [
+          "When storms around are sweeping,\nWhen lone my watch I’m keeping,\n‘Mid fires of evil falling,\n‘Mid tempters’ voices calling.\nchorus\nRemember me, O Mighty One!\nRemember me, O Mighty One!\n\n",
+          "When walking on life’s ocean,\nControl its raging motion;\nWhen from its dangers shrinking,\nWhen in its dread deeps sinking.\n\n",
+          "When weight of sin oppresses,\nWhen dark despair distresses,\nAll thro’ the life that’s mortal,\nAnd when I pass death’s portal.\n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "I am so glad that our Father in heav’n",
+        "id": "hymn_ndm_en_ZW_141"
+      },
+      "attributes": {
+        "hymnNumber": 141,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_141"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": true
+      },
+      "captions": {
+        "meter": "10.10.10.10 neKorasi",
+        "key": "Doh is G",
+        "tonicSolfa": "{|s, :s, :s, |s, :s, :s, |s, :d :r |m ;- :- |}",
+        "subtitle": "I am so glad"
+      },
+      "content": {
+        "chorus": "chorus\nI am so glad that Jesus loves me,\nJesus loves me, Jesus loves me;\nI am so glad that Jesus loves me,\nJesus loves even me.\n\n",
+        "stanzas": [
+          "I am so glad that our Father in heav’n\nTells of His love in the Book He has giv’n;\nWonderful things in the Bible I see:\nThis is the dearest, that Jesus loves me.\nchorus\nI am so glad that Jesus loves me,\nJesus loves me, Jesus loves me;\nI am so glad that Jesus loves me,\nJesus loves even me.\n\n",
+          "Though I forget Him and wander away,\nStill He doth love me whenever I stray;\nBack to His dear loving arms would I flee,\nWhen I remember that Jesus loves me.\n\n",
+          "Oh, if there’s only one song I can sing,\nWhen in His beauty I see the great King,\nThis shall my song in eternity be:\n“Oh, what a wonder that Jesus loves me.”\n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "Once in royal David’s city",
+        "id": "hymn_ndm_en_ZW_33"
+      },
+      "attributes": {
+        "hymnNumber": 33,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_33"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": false
+      },
+      "captions": {
+        "meter": "8.7.8.7.7.7",
+        "key": "Doh is G",
+        "tonicSolfa": "{|s, :t, |d :- .d |d .t. :d .r|r :d ||}",
+        "ndebele": "(Ndebele 50)"
+      },
+      "content": {
+        "stanzas": [
+          "Once in royal David’s city\nstood a lowly cattle shed,\nwhere a mother laid her baby\nin a manger for his bed:\nMary was that mother mild,\nJesus Christ, her little child.\n\n",
+          "He came down to earth from heaven\nwho is God and Lord of all;\nand his shelter was a stable,\nand his cradle was a stall:\nwith the poor, and meek, and lowly\nlived on earth our Savior holy.\n\n",
+          "Jesus is our childhood’s pattern,\nday by day like us he grew;\nhe was little, weak, and helpless,\ntears and smiles like us he knew:\nand he feels for all our sadness,\nand he shares in all our gladness.\n\n",
+          "And our eyes at last shall see him,\nthrough his own redeeming love,\nfor that child, so dear and gentle,\nis our Lord in heaven above:\nand he leads his children on\nto the place where he has gone.\n\n",
+          "Not in that poor lowly stable\nwith the oxen standing by\nwe shall see him, but in heaven,\nset at God’s right hand on high;\nthere his children gather round,\nbright like stars, with glory crowned.\n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "O happy day that fixed my choice",
+        "id": "hymn_ndm_en_ZW_138"
+      },
+      "attributes": {
+        "hymnNumber": 138,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_138"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": true
+      },
+      "captions": {
+        "meter": "8.8.8.8 neKorasi",
+        "key": "Doh is G",
+        "tonicSolfa": "{ .s, :d .r |m :- .s, :d .r|m :- }",
+        "subtitle": "Happy Day"
+      },
+      "content": {
+        "chorus": "chorus\nHappy day, happy day,\nWhen Jesus washed my sins away!\nHe taught me how to watch and pray,\nAnd live rejoicing every day;\nHappy day, happy day,\nWhen Jesus washed my sins away!\n\n",
+        "stanzas": [
+          "O happy day that fixed my choice\nOn Thee, my Savior and my God!\nWell may this glowing heart rejoice,\nAnd tell its raptures all abroad.\nchorus\nHappy day, happy day,\nWhen Jesus washed my sins away!\nHe taught me how to watch and pray,\nAnd live rejoicing every day;\nHappy day, happy day,\nWhen Jesus washed my sins away!\n\n",
+          "Tis done—the great transaction’s done;\nI am my Lord’s, and He is mine;\nHe drew me and I followed on,\nRejoiced to own the call divine.\n\n",
+          "Now rest, my long-divided heart,\nFixed on this blissful center, rest;\nHere have I found a nobler part,\nHere heav’nly pleasures fill my breast.\n\n",
+          "High heav’n that hears the solemn vow,\nThat vow renewed shall daily hear!\nTill in life’s latest hour I bow,\nAnd bless, in death, a bond so dear.\n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "Jesus bids us shine",
+        "id": "hymn_ndm_en_ZW_186"
+      },
+      "attributes": {
+        "hymnNumber": 186,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_186"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": false
+      },
+      "captions": {
+        "meter": "10.11.10.11",
+        "key": "Doh is G",
+        "tonicSolfa": "{ |d .s, :s, .s, |s, :d .r |d :t, |t, :- |}",
+        "subtitle": "Jesus bids us shine"
+      },
+      "content": {
+        "stanzas": [
+          "Jesus bids us shine\nwith a clear, pure light,\nlike a little candle\nburning in the night.\nIn this world of darkness,\nso let us shine,\nyou in your small corner,\nand I in mine.\n\n",
+          "Jesus bids us shine,\nfirst of all for him;\nwell he sees and knows it\nif our light grows dim:\nJesus walks beside us\nto help us shine,\nyou in your small corner,\nand I in mine.\n\n",
+          "Jesus bids us shine,\nthen, for all around,\nmany kinds of darkness\nin this world are found:\nsin, and want and sorrow;\nso we must shine,\nyou in your small corner,\nand I in mine.\n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "Lord, you left your throne",
+        "id": "hymn_ndm_en_ZW_23"
+      },
+      "attributes": {
+        "hymnNumber": 23,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_23"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": false
+      },
+      "captions": {
+        "meter": "Rusina Mwero.......",
+        "key": "Doh is E flat",
+        "tonicSolfa": "{| ;d .r|m :m, .m|f :m .r|d ;r.r|m ||}"
+      },
+      "content": {
+        "stanzas": [
+          "Lord, you left your throne\nand your kingly crown\nwhen you came to this earth for me,\nbut in Bethlehem's home\nthere was found no room\nfor your holy nativity:\nO come to my heart, Lord Jesus;\nEmmanuel, come to me.\n\n",
+          "Heaven's arches rang\nwhen the angels sang\nproclaiming your royal degree,\nbut to lowly birth\nyou came here on earth,\nand in great humility:\nO come to my heart, Lord Jesus;\nRedeemer, be born in me.\n\n",
+          "You were sent, O Lord,\nwith the living word\nthat should set your people free;\nbut with mocking scorn\nand with crown of thorn,\nthey bore you to Calvary:\nO come to my heart, Lord Jesus,\nyour cross is my only plea.\n\n",
+          "When the heavens shall ring,\nand the choirs shall sing\nat your coming to victory,\nlet your voice call me home\nsaying, 'Yes, there is room!'\nthere is room at your side for me.\nThen my heart shall rejoice, Lord Jesus,\nwhen you come and you call for me. \n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "Who is He in yonder stall",
+        "id": "hymn_ndm_en_ZW_44"
+      },
+      "attributes": {
+        "hymnNumber": 44,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_44"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": true
+      },
+      "captions": {
+        "meter": "7.7 neKorasi",
+        "key": "Doh is A",
+        "tonicSolfa": "{ :s, .s, |s, :- .s, :s, .s, |l, :- }",
+        "subtitle": "who is He?"
+      },
+      "content": {
+        "chorus": "chorus\n’Tis the Lord! O wondrous story!\n’Tis the Lord! the King of glory!\nAt His feet we humbly fall,\nCrown Him! crown Him, Lord of all!\n\n",
+        "stanzas": [
+          "Who is He in yonder stall\nAt whose feet the shepherds fall?\nchorus\n’Tis the Lord! O wondrous story!\n’Tis the Lord! the King of glory!\nAt His feet we humbly fall,\nCrown Him! crown Him, Lord of all!\n\n",
+          "Who is He in deep distress,\nFasting in the wilderness?\n\n",
+          "Who is He the people bless\nFor His words of gentleness?\n\n",
+          "Who is He to whom they bring\nAll the sick and sorrowing?\n\n",
+          "Who is He that stands and weeps\nAt the grave where Lazarus sleeps?\n\n",
+          "Who is He the gathering throng\nGreet with loud triumphant song?\n\n",
+          "Lo! at midnight, who is He\nPrays in dark Gethsemane?\n\n",
+          "Who is He on yonder tree\nDies in grief and agony?\n\n",
+          "Who is He that from the grave\nComes to heal and help and save?\n\n",
+          "Who is He that from His throne\nRules through all the world alone?\n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "The wingéd herald of the day",
+        "id": "hymn_ndm_en_ZW_20"
+      },
+      "attributes": {
+        "hymnNumber": 20,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_20"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": false
+      },
+      "captions": {
+        "meter": "8.8.8.8",
+        "key": "Doh is b flat",
+        "tonicSolfa": "{| :d |d :t, :l |s, :- :d |r :d :t, |d :- ||}"
+      },
+      "content": {
+        "stanzas": [
+          "The wingéd herald of the day\nProclaims the morn's approaching ray:\nSo Christ the Lord renews His call,\nTo endless life awakening all.\n\n",
+          "Take up thy bed, to each he cries,\nWho sick, or wrapp'd in slumber, lies:\nBe chaste, and, living soberly,\n\nWatch ye, for I the Lord am nigh.\n\n",
+          "With earnest cry, with tearful care,\nCall we the Lord to hear our prayer;\nWhile supplication, pure and deep,\nForbids each chastened heart to sleep.\n\n",
+          "O Father, that we ask be done,\nThrough Jesus Christ,Thine only Son;\nWho, with the Holy ghost and Thee,\nShall live and reign eternally.\n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "Father of glory, to thy name",
+        "id": "hymn_ndm_en_ZW_24"
+      },
+      "attributes": {
+        "hymnNumber": 24,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_24"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": false
+      },
+      "captions": {
+        "meter": "8.6.8.6",
+        "key": "Doh is F",
+        "tonicSolfa": "{|d :l,s,|d :r |m.m:r | .m :s.f|m :r |d :-||}"
+      },
+      "content": {
+        "stanzas": [
+          "Father of glory, to thy name\nImmortal praise we give,\nWho dost an act of grace proclaim,\nAnd bid'st us, rebels, live!\n\n",
+          "Immortal honor to the Son,\nWho makes thine anger cease;\nOur lives he ransomed with his own,\nAnd died to make our peace.\n\n",
+          "To the Almighty Spirit be\nImmortal glory given;\nWhose influence brings us near to thee,\nAnd trains us up for heaven.\n\n",
+          "Let men, with their united voice,\nAdore th' eternal God;\nAnd spread his honors, and their joys,\nThrough nations far abroad.\n\n",
+          "Let faith and love and duty join\nOne general song to raise;\nAnd saints in earth and heaven combine\nIn harmony and praise.\n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "Yet there is room: the Lamb's bright hall of song,",
+        "id": "hymn_ndm_en_ZW_98"
+      },
+      "attributes": {
+        "hymnNumber": 98,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_98"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": false
+      },
+      "captions": {
+        "meter": "10.10. neKorasi",
+        "key": "Doh is F",
+        "tonicSolfa": "{|s : s.s|m :- .d|m.m :r.d |r :- | : | : }",
+        "subtitle": "Yet there is room",
+        "ndebele": "(Ndebele 153)"
+      },
+      "content": {
+        "stanzas": [
+          "Yet there is room: the Lamb's bright hall of song,\nWith its fair glory, beckons thee along:\nRoom, room, still room! O enter, enter now.\n\n",
+          "Day is declining, and the sun is low;\nThe shadows lengthen, light makes haste to go:\nRoom, room, still room! O enter, enter now.\n\n",
+          "The bridal hall is filling for the feast;\nPass in, pass in, and be the Bridegroom's guest:\nRoom, room, still room! O enter, enter now.\n\n",
+          "It fills, it fills, that hall of jubilee!\nMake haste, make haste, 'tis not too full for thee:\nRoom, room, still room! O enter, enter now.\n\n",
+          "Yet there is room: still open stands the gate,\nThe gate of love; it is not yet too late:\nRoom, room, still room! O enter, enter now.\n\n",
+          "O enter in; that banquet is for thee;\nThat cup of everlasting joy is free:\nRoom, room, still room! O enter, enter now.\n\n",
+          "All heaven is there, all joy! Go in, go in;\nThe angels beckon thee the prize to win:\nRoom, room, still room! O enter, enter now.\n\n",
+          "Louder and sweeter sounds the loving call;\nCome, lingerer, come; enter that festal hall:\nRoom, room, still room! O enter, enter now.\n\n",
+          "Ere night that gate may close, and seal thy doom;\nThen the last low, long cry, No room, no room!\nNo room, no room! O woeful cry, No room!\n"
+        ]
+      }
+    },
+    {
+      "header": {
+        "hymnName": "When we walk with the Lord",
+        "id": "hymn_ndm_en_ZW_163"
+      },
+      "attributes": {
+        "hymnNumber": 163,
+        "language": "hymn_ndm_en_ZW",
+        "relationIds": [
+          "ndm_sn_ZW_163"
+        ],
+        "relationLanguages": [
+          "ndm_sn_ZW"
+        ],
+        "hasChorus": true
+      },
+      "captions": {
+        "meter": "6.6.9.6.6.9 neKorasi",
+        "key": "Doh is F",
+        "tonicSolfa": "{ :d .r |m :m :r |d :- : }",
+        "subtitle": "Trust and obey"
+      },
+      "content": {
+        "chorus": "chorus\nTrust and obey, for there's no other way\nto be happy in Jesus, but to trust and obey.\n\n",
+        "stanzas": [
+          "When we walk with the Lord\nin the light of his word,\nwhat a glory he sheds on our way!\nWhile we do his good will,\nhe abides with us still,\nand with all who will trust and obey.\nchorus\nTrust and obey, for there's no other way\nto be happy in Jesus, but to trust and obey.\n\n",
+          "Not a burden we bear,\nnot a sorrow we share,\nbut our toil he doth richly repay;\nnot a grief or a loss,\nnot a frown or a cross,\nbut is blest if we trust and obey.\n\n",
+          "But we never can prove\nthe delights of his love\nuntil all on the altar we lay;\nfor the favor he shows,\nfor the joy he bestows,\nare for them who will trust and obey.\n\n",
+          "Then in fellowship sweet\nwe will sit at his feet,\nor we'll walk by his side in the way;\nwhat he says we will do,\nwhere he sends we will go;\nnever fear, only trust and obey.\n"
+        ]
+      }
+    }
+  ],
+  "manifest": {
+    "databaseName": "Nziyo DzeMethodist English Version",
+    "databaseId":"hymn_ndm_en_ZW",
+    "language":"Shona",
+    "lastModified": 1543519428677,
+    "hymnBookName": "Nziyo DzeMethodist",
+    "count": 60
+  }
+}
