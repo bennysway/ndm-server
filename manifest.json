@@ -1,0 +1,23 @@
+{
+    "official":[
+        {
+            "databaseName": "Nziyo DzeMethodist",
+            "databaseId":"hymn_ndm_sn_ZW",
+            "language":"Shona",
+            "lastModified": 1543519376495,
+            "hymnBookName": "Nziyo DzeMethodist",
+            "count": 321,
+            "link":"http://ndm-server.herokuapp.com/api/sn/db"
+          },
+          {
+            "databaseName": "Nziyo DzeMethodist English Version",
+            "databaseId":"hymn_ndm_en_ZW",
+            "language":"Shona",
+            "lastModified": 1543519428677,
+            "hymnBookName": "Nziyo DzeMethodist",
+            "count": 60,
+            "link":"http://ndm-server.herokuapp.com/api/en/db"
+          }
+
+    ]
+}
