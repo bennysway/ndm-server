@@ -18,6 +18,6 @@
             "count": 60,
             "link":"http://ndm-server.herokuapp.com/api/en/db"
           }
-
-    ]
+    ],
+    "churches":[]
 }
