@@ -1,23 +1,54 @@
 {
-    "official":[
-        {
-            "databaseName": "Nziyo DzeMethodist",
-            "databaseId":"hymn_ndm_sn_ZW",
-            "language":"Shona",
-            "lastModified": 1543519376495,
-            "hymnBookName": "Nziyo DzeMethodist",
-            "count": 321,
-            "link":"http://ndm-server.herokuapp.com/api/sn/db"
-          },
-          {
-            "databaseName": "Nziyo DzeMethodist English Version",
-            "databaseId":"hymn_ndm_en_ZW",
-            "language":"Shona",
-            "lastModified": 1543519428677,
-            "hymnBookName": "Nziyo DzeMethodist",
-            "count": 60,
-            "link":"http://ndm-server.herokuapp.com/api/en/db"
-          }
-    ],
-    "churches":[]
+  "databases": [
+    {
+      "databaseName": "Nziyo DzeMethodist",
+      "databaseId": "hymn_ndm_sn_ZW",
+      "language": "Shona",
+      "lastModified": 1543519376495,
+      "link": "http://ndm-server.herokuapp.com/api/sn/db"
+    },
+    {
+      "databaseName": "Nziyo DzeMethodist English Version",
+      "databaseId": "hymn_ndm_en_ZW",
+      "language": "English",
+      "lastModified": 1580984403982,
+      "link": "http://ndm-server.herokuapp.com/api/en/db"
+    },
+    {
+      "databaseName": "Methodist Church in Zimbabwe Readings",
+      "databaseId": "reading_ndm_ZW",
+      "language": "",
+      "lastModified": 1580984466590,
+      "link": "http://ndm-server.herokuapp.com/readings"
+    },
+    {
+      "databaseName": "Methodist Church in Zimbabwe Devotions",
+      "databaseId": "devotion_ndm_ZW",
+      "language": "",
+      "lastModified": 1543519428677,
+      "link": "http://ndm-server.herokuapp.com/readings"
+    },
+    {
+      "count": 0,
+      "databaseId": "music_ndm_ZW",
+      "databaseName": "Methodist Church in Zimbabwe Music",
+      "language": "Shona",
+      "lastModified": 1543519428677,
+      "link": "http://ndm-server.herokuapp.com/music"
+    },
+    {
+      "databaseName": "Methodist Church in Zimbabwe Event",
+      "databaseId": "event_ndm_ZW",
+      "language": "Shona",
+      "lastModified": 1543519428677,
+      "link": "http://ndm-server.herokuapp.com/events"
+    },
+    {
+      "databaseName": "Methodist Church in Zimbabwe Announcements",
+      "databaseId": "announcement_ndm_ZW",
+      "language": "Shona",
+      "lastModified": 1543519428677,
+      "link": "http://ndm-server.herokuapp.com/announcements"
+    }
+  ]
 }
