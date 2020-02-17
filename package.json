@@ -10,7 +10,10 @@
   "author": "bennysway",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.17.1",
+    "firebase": "^7.8.2",
+    "firebase-admin": "^8.9.2",
     "fs": "0.0.1-security",
-    "json-server": "^0.15.1"
+    "jsrender": "^1.0.5"
   }
 }
