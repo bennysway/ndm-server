@@ -15,7 +15,7 @@ router.get('/:collectionName', (req, res) => {
                 throw err
             }
             console.log(result)
-            res.json({ sucess: true }).status(200)
+            res.json({ success: true }).status(200)
         })
     })
 })
@@ -29,7 +29,7 @@ router.get('/:collectionName/:contentId', (req, res) => {
                 throw err
             }
             console.log(result)
-            res.json({ sucess: true }).status(200)
+            res.json({ success: true }).status(200)
         })
     })
 })
@@ -44,7 +44,7 @@ router.post('/:collectionName', (req, res) => {
                 throw err
             }
             console.log('Posted')
-            res.json({ sucess: true }).status(200)
+            res.json({ success: true }).status(200)
         })
     })
 })
@@ -59,7 +59,7 @@ router.post('/:collectionName/:contentId', (req, res) => {
                 throw err
             }
             console.log('Posted')
-            res.json({ sucess: true }).status(200)
+            res.json({ success: true }).status(200)
         })
     })
 })
