@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\app",
+    "\\public\\css",
+    "\\public\\html",
+    "\\services"
   ],
-  "SelectedNode": "\\server.js",
+  "SelectedNode": "\\app\\databaseManager.js",
   "PreviewInSolutionExplorer": false
 }
