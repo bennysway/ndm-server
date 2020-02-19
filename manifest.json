@@ -1,5 +1,4 @@
-{
-  "databases": [
+[
     {
       "databaseName": "Nziyo DzeMethodist",
       "databaseId": "hymn_ndm_sn_ZW",
@@ -51,4 +50,3 @@
       "link": "http://ndm-server.herokuapp.com/announcements"
     }
   ]
-}
