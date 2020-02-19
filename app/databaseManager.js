@@ -43,7 +43,7 @@ router.get('/:collectionName/:contentId', (req, res) => {
                     res.send('error')
                     throw err
                 }
-                cache.set(collectionName, result)
+                cache.set(collectionName + contentId, result)
                 console.log('rt data')
                 res.json(result)
             })
@@ -67,7 +67,7 @@ router.get('/commentsOn/:contentId', (req, res) => {
                     res.send('error')
                     throw err
                 }
-                cache.set(collectionName, result)
+                cache.set(collectionName + contentId, result)
                 console.log('rt data')
                 res.json(result)
             })
@@ -81,8 +81,8 @@ router.get('/commentsOn/:contentId', (req, res) => {
 
 router.post('/:collectionName', (req, res) => {
     let collectionName = req.params.collectionName
+    cache.del(collectionName)
     client.connect(err => {
-
         client.db("ndm").collection(collectionName).insert(req.body, (err, result) => {
             if (err) {
                 res.send('error')
@@ -96,6 +96,7 @@ router.post('/:collectionName', (req, res) => {
 
 router.post('/:collectionName/:contentId', (req, res) => {
     let collectionName = req.params.collectionName
+    cache.del(collectionName + contentId)
     client.connect(err => {
 
         client.db("ndm").collection(collectionName).insert(req.body, (err, result) => {
