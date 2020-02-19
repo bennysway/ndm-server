@@ -110,6 +110,23 @@ router.post('/:collectionName/:contentId', (req, res) => {
     })
 })
 
+router.delete('/:collectionName/:contentId', (req, res) => {
+    let collectionName = req.params.collectionName
+    cache.del(collectionName + contentId)
+    let query = getQuery(collectionName, contentId)
+    client.connect(err => {
+        client.db("ndm").collection(collectionName).deleteOne(query, (err, result) => {
+            if (err) {
+                res.send('error')
+                throw err
+            }
+            console.log('Deleted')
+            res.json({ success: true }).status(200)
+        })
+    })
+})
+
+
 function getQuery(collectionName, contentId){
     switch (collectionName) {
         case "readings": return {readingId : contentId}; break;
