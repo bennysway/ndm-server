@@ -4,6 +4,6 @@
     "\\app",
     "\\services"
   ],
-  "SelectedNode": "\\server.js",
+  "SelectedNode": "\\app\\databaseManager.js",
   "PreviewInSolutionExplorer": false
 }
