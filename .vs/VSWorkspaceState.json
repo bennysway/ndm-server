@@ -2,8 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\app",
-    "\\services"
+    "\\public\\css"
   ],
-  "SelectedNode": "\\server.js",
+  "SelectedNode": "\\en_zw.json",
   "PreviewInSolutionExplorer": false
 }
