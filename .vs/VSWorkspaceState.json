@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\app",
-    "\\public\\css"
+    "\\app"
   ],
-  "SelectedNode": "\\en_zw.json",
+  "SelectedNode": "\\package-lock.json",
   "PreviewInSolutionExplorer": false
 }
