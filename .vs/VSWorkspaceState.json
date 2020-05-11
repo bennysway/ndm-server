@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\app"
+    "\\.firebase",
+    "\\functions",
+    "\\public"
   ],
-  "SelectedNode": "\\package-lock.json",
+  "SelectedNode": "\\.firebase",
   "PreviewInSolutionExplorer": false
 }
