@@ -6,26 +6,31 @@ const uri = "mongodb+srv://node-server_1:ndmapp@ndm-api-mvqzp.mongodb.net/test?r
 const client = new MongoClient(uri)
 //Caching
 const NodeCache = require('node-cache')
-const cache = new NodeCache({ stdTTL:300 })
+const cache = new NodeCache({ stdTTL:43200 })
 
 router.get('/:collectionName', (req, res) => {
+    let lastModified = Number(req.query.lastModified)
+    if(isNaN(lastModified)) {
+        lastModified = 0
+    }
     let collectionName = req.params.collectionName
-    let value = cache.get(collectionName)
+    let value = cache.get(collectionName + lastModified)
     if (value == undefined) {
         client.connect(err => {
-            client.db("ndm").collection(collectionName).find({}).toArray((err, result) => {
+            client.db("ndm").collection(collectionName).find({lastModified: {$gte: lastModified}}).toArray((err, result) => {
                 if (err) {
                     res.send('error')
                     throw err
                 }
-                cache.set(collectionName, result)
-                console.log('rt data')
+                cache.set(collectionName + lastModified, result)
+                console.log('rt data at ' + lastModified) 
                 res.json(result)
             })
         })
     }
     else {
         console.log('cached data')
+        res.status(304);
         res.json(value)
     }
     
@@ -35,7 +40,7 @@ router.get('/:collectionName/:contentId', (req, res) => {
     let collectionName = req.params.collectionName
     let contentId = req.params.contentId
     let query = getQuery(collectionName, contentId)
-    let value = cache.get(collectionName)
+    let value = cache.get(collectionName + contentId)
     if (value == undefined) {
         client.connect(err => {
             client.db("ndm").collection(collectionName).find(query).toArray((err, result) => {
@@ -51,6 +56,7 @@ router.get('/:collectionName/:contentId', (req, res) => {
     }
     else {
         console.log('cached data')
+        res.status(304);
         res.json(value)
     }
 })
@@ -59,7 +65,7 @@ router.get('/commentsOn/:contentId', (req, res) => {
     let collectionName = req.params.collectionName
     let contentId = req.params.contentId
     let query = { connectedTo: contentId }
-    let value = cache.get(collectionName)
+    let value = cache.get(collectionName + contentId)
     if (value == undefined) {
         client.connect(err => {
             client.db("ndm").collection('comments').find(query).toArray((err, result) => {
@@ -75,6 +81,7 @@ router.get('/commentsOn/:contentId', (req, res) => {
     }
     else {
         console.log('cached data')
+        res.status(304);
         res.json(value)
     }
 })
@@ -83,7 +90,7 @@ router.post('/:collectionName', (req, res) => {
     let collectionName = req.params.collectionName
     cache.del(collectionName)
     client.connect(err => {
-        client.db("ndm").collection(collectionName).insert(req.body, (err, result) => {
+        client.db("ndm").collection(collectionName).insertOne(req.body, (err, result) => {
             if (err) {
                 res.send('error')
                 throw err
@@ -99,7 +106,7 @@ router.post('/:collectionName/:contentId', (req, res) => {
     cache.del(collectionName + contentId)
     client.connect(err => {
 
-        client.db("ndm").collection(collectionName).insert(req.body, (err, result) => {
+        client.db("ndm").collection(collectionName).insertOne(req.body, (err, result) => {
             if (err) {
                 res.send('error')
                 throw err
