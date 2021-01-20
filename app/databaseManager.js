@@ -89,13 +89,13 @@ router.get('/commentsOn/:contentId', (req, res) => {
 router.post('/:collectionName', (req, res) => {
     let collectionName = req.params.collectionName
     cache.del(collectionName)
+    removeTimestampCaches(collectionName)
     client.connect(err => {
         client.db("ndm").collection(collectionName).insertOne(req.body, (err, result) => {
             if (err) {
                 res.send('error')
                 throw err
             }
-            console.log('Posted')
             res.json({ success: true }).status(200)
         })
     })
@@ -103,6 +103,7 @@ router.post('/:collectionName', (req, res) => {
 
 router.post('/:collectionName/:contentId', (req, res) => {
     let collectionName = req.params.collectionName
+    removeTimestampCaches(collectionName)
     cache.del(collectionName + contentId)
     client.connect(err => {
 
@@ -111,7 +112,6 @@ router.post('/:collectionName/:contentId', (req, res) => {
                 res.send('error')
                 throw err
             }
-            console.log('Posted')
             res.json({ success: true }).status(200)
         })
     })
@@ -120,6 +120,7 @@ router.post('/:collectionName/:contentId', (req, res) => {
 router.delete('/:collectionName/:contentId', (req, res) => {
     let collectionName = req.params.collectionName
     cache.del(collectionName + contentId)
+    removeTimestampCaches(collectionName)
     let query = getQuery(collectionName, contentId)
     client.connect(err => {
         client.db("ndm").collection(collectionName).deleteOne(query, (err, result) => {
@@ -127,7 +128,6 @@ router.delete('/:collectionName/:contentId', (req, res) => {
                 res.send('error')
                 throw err
             }
-            console.log('Deleted')
             res.json({ success: true }).status(200)
         })
     })
@@ -143,6 +143,16 @@ function getQuery(collectionName, contentId){
         case "announcements": return { announcementId: contentId }; break;
         case "comments": return { commentId: contentId }; break;
     }
+}
+
+function removeTimestampCaches(collectionName){
+    let caches = []
+    cache.keys().forEach(key => {
+        if(key.includes(collectionName)){
+            caches.push(key)
+        }
+    })
+    cache.del(caches)
 }
 
 
