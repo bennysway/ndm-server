@@ -8,7 +8,8 @@ const port = process.env.PORT || 80
 const databaseManager = require('./app/databaseManager')
 const webSocketManager = require('./app/webSocketManager')
 
-app.use(bodyParser.json())
+app.use(express.json());
+app.use(express.urlencoded());
 app.use(express.static(__dirname + '/public'))
 
 app.use(webSocketManager)

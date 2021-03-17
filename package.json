@@ -17,6 +17,7 @@
     "jsrender": "^1.0.6",
     "mongodb": "^3.5.5",
     "node-cache": "^5.1.0",
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.4",
+    "object-hash": "^2.1.1"
   }
 }
