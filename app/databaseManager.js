@@ -13,11 +13,11 @@ const cache = new NodeCache({ stdTTL: 300 })
 router.get('/:collectionName', (req, res) => {
     let collectionName = req.params.collectionName
     let queryBody = {}
-    if (req.query.queryBody != undefined){
+    if (req.query.queryBody != undefined) {
         queryBody = crypt.decrypt(req.query.queryBody)
         console.log("Decrypted to " + queryBody)
     }
-    console.log("Query is to " +  req.query.queryBody)
+    console.log("Query is to " + req.query.queryBody)
     let queryHash = hash(queryBody)
     let value = cache.get(collectionName + queryHash)
     if (value == undefined) {
@@ -105,9 +105,11 @@ router.post('/:collectionName', (req, res) => {
 
 router.post('/:collectionName/:contentId', (req, res) => {
     let collectionName = req.params.collectionName
+    let contentId = req.params.contentId
+    let query = getQuery(collectionName, contentId)
     removeCaches(collectionName)
     client.connect(err => {
-        client.db("ndm").collection(collectionName).insert(req.body, (err, result) => {
+        client.db("ndm").collection(collectionName).replaceOne(query, req.body, { upsert: true }, (err, result) => {
             if (err) {
                 res.send('error')
                 throw err
@@ -120,8 +122,9 @@ router.post('/:collectionName/:contentId', (req, res) => {
 
 router.delete('/:collectionName/:contentId', (req, res) => {
     let collectionName = req.params.collectionName
-    removeCaches(collectionName)
+    let contentId = req.params.contentId
     let query = getQuery(collectionName, contentId)
+    removeCaches(collectionName)
     client.connect(err => {
         client.db("ndm").collection(collectionName).deleteOne(query, (err, result) => {
             if (err) {
@@ -154,5 +157,6 @@ function getQuery(collectionName, contentId) {
         case "comments": return { commentId: contentId }; break;
     }
 }
+
 
 module.exports = router
