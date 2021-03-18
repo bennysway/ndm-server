@@ -1,4 +1,5 @@
 var express = require('express')
+var crypt = require('./Crypty')
 var hash = require('object-hash');
 var router = express.Router()
 //Database Init
@@ -12,8 +13,11 @@ const cache = new NodeCache({ stdTTL: 300 })
 router.get('/:collectionName', (req, res) => {
     let collectionName = req.params.collectionName
     let queryBody = {}
-    if (req.body != undefined)
-        queryBody = req.body
+    if (req.query.queryBody != undefined){
+        queryBody = crypt.decrypt(req.query.queryBody)
+        console.log("Decrypted to " + queryBody)
+    }
+    console.log("Query is to " +  req.query.queryBody)
     let queryHash = hash(queryBody)
     let value = cache.get(collectionName + queryHash)
     if (value == undefined) {
