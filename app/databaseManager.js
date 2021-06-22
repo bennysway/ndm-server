@@ -154,6 +154,7 @@ function getQuery(collectionName, contentId) {
         case "music": return { musicId: contentId }; break;
         case "events": return { eventId: contentId }; break;
         case "announcements": return { announcementId: contentId }; break;
+        case "churches": return { churchId: contentId }; break;
         case "comments": return { commentId: contentId }; break;
     }
 }
