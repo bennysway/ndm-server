@@ -5,7 +5,7 @@ var router = express.Router()
 //Database Init
 const MongoClient = require('mongodb').MongoClient
 const uri = "mongodb+srv://node-server_1:ndmapp@ndm-api-mvqzp.mongodb.net/test?retryWrites=true&w=majority"
-const client = new MongoClient(uri)
+const client = new MongoClient(uri, {useUnifiedTopology: true, useNewUrlParser: true, useCreateIndex: true })
 //Caching
 const NodeCache = require('node-cache')
 const cache = new NodeCache({ stdTTL: 300 })
@@ -27,14 +27,14 @@ router.get('/:collectionName', (req, res) => {
                     res.send('error')
                     throw err
                 }
-                cache.set(collectionName + queryHash, result)
-                console.log('rt data')
+                cache.set(collectionName, result)
+                console.log('realtime data: ' + collectionName)
                 res.json(result)
             })
         })
     }
     else {
-        console.log('cached data')
+        console.log('cached data:' + collectionName)
         res.json(value)
     }
 
@@ -53,13 +53,13 @@ router.get('/:collectionName/:contentId', (req, res) => {
                     throw err
                 }
                 cache.set(collectionName + contentId, result)
-                console.log('rt data')
+                console.log('realtime data: ' + collectionName + "/" + contentId)
                 res.json(result)
             })
         })
     }
     else {
-        console.log('cached data')
+        console.log('cached data: ' + collectionName + "/" + contentId)
         res.json(value)
     }
 })
@@ -77,13 +77,13 @@ router.get('/commentsOn/:contentId', (req, res) => {
                     throw err
                 }
                 cache.set(collectionName + contentId, result)
-                console.log('rt data')
+                console.log('realtime data: ' + collectionName + "/" + contentId)
                 res.json(result)
             })
         })
     }
     else {
-        console.log('cached data')
+        console.log('cached data: ' + collectionName + "/" + contentId)
         res.json(value)
     }
 })

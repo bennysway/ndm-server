@@ -3,7 +3,7 @@ const jsrender = require('jsrender')
 const bodyParser = require('body-parser')
 const app = express()
 const expressws = require('express-ws')(app)
-const port = process.env.PORT || 80
+const port = process.env.PORT || 3000
 
 const databaseManager = require('./app/databaseManager')
 const webSocketManager = require('./app/webSocketManager')
