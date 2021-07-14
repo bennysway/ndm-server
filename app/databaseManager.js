@@ -156,7 +156,7 @@ function getQuery(collectionName, contentId) {
         case "announcements": return { announcementId: contentId }; break;
         case "churches": return { churchId: contentId }; break;
         case "comments": return { commentId: contentId }; break;
-        case "users": return { userId: contentId }; break;
+        case "users": return { firebaseId: contentId }; break;
         case "tiers": return { tierId: contentId }; break;
     }
 }
